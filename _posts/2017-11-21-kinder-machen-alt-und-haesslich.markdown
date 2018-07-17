@@ -10,7 +10,7 @@ tags: ["Baby", "Familienleben", "Kleinkind", "Gesundheit & Fitness", "Partnersch
 
 <figure>
   <img src="../../../../../images/augenringe.png" alt="">
-  <figcaption>Keine Zeit zum Haare machen, tiefe Augenringe. So sieht's aus!</figcaption>
+  <figcaption>Ein sehr privates Bild. Ich bringe beide Mädels ins (Familien-)Bett. Mit Stillen, Flasche und gleichzeitig Peppa Wutz vorlesen.</figcaption>
 </figure>
 
 
