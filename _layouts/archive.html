@@ -21,7 +21,7 @@ layout: default
     <img src="../../../../../images/kinderkram_header.jpg"/>
     <p>Hallo und herzlich willkommen in meinem Blog. Ich bin Katja und Mama meiner zwei Zauberrüben. 20 Monate Abstand sind mitunter verdammt anstrengend. Aber auch verdammt lustig und schön. Wenn da nur nicht so viele Baustellen wären im Muddiversum! Von Milchvampiren, der Neuorientierung im Berufsleben, dem Scheitern und Lachen. Viel Spaß beim Lesen!</p>
     {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 class="page__title">{{ page.title }}</h1>
+      <h1 id="page-title" class="page__title">{{ page.title }}</h1>
     {% endunless %}
     {{ content }}
   </div>
