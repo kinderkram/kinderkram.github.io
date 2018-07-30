@@ -3,7 +3,7 @@ title:  "{::nomarkdown}Der kleine Klotz{:/}"
 date:   2018-01-31 10:00:00 +0200
 header:
   teaser: ../../../../../images/puppenmama_teaser.png
-tags: ["Kleinkind", "Baby", "Familienleben", "Stillen"]
+tags: ["Baby", "Familienleben", "Stillen", "Sozialleben"]
 ---
 
 **Ich bin die Größte, Schönste und Beste für meine Kinder. Das ist ganz toll aber auch sehr anstrengend. Denn die beiden Kletten-Kinder schnüren mir manchmal im wahrsten Sinne des Wortes die Luft ab.**
