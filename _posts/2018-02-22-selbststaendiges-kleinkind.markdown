@@ -10,7 +10,7 @@ tags: ["Familienleben", "Kleinkind", "Stillen & Ernährung", "Baby", "Schlafen"]
 
 <figure>
   <img src="../../../../../images/kuschelschaukel.png" alt="">
-  <figcaption>Johanna liebt es, mit zum Sport zu kommen. Am meisten den Sling-Trainer. Huuuuiiii!</figcaption>
+  <figcaption>Die Hasen dick eingepackt auf dem Spielplatz. So nah ist es natürlich noch kuscheliger.</figcaption>
 </figure>
 
 
