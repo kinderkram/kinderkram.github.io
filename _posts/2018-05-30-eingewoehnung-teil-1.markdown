@@ -19,9 +19,9 @@ Doch dann kam die Kurze dran mit der Eingewöhnung. Johanna fand es gar nicht to
 
 Dort essen wir dann alle gemeinsam zu Mittag und dann machen die Mädels ihr Schläfchen. Sogar gleichzeitig! Da kann ich dann Blogbeiträge oder Kindergeschichten schreiben. Beides habe ich in den letzten Monaten arg schleifen lassen. Ich hatte wirklich keine Zeit mit beiden Mädels daheim. Johanna hatte nämlich auch eine längere Pause zwischen ihrer Ex-Krippe und dem neuen Kindergarten. Im Kindergarten wird übrigens täglich frisch gekocht. Ich kann immer noch nicht fassen, dass wir diese Plätze bekommen haben. 
 
-Pauline bereitet mir währenddessen überhaupt keine Bauchschmerzen. Die liebt ihre Bezugserzieherin sehr. Sie steht morgens mit Jacke und Schuhen in der Hand vor der Tür und möchte bitte gehen. Und wenn ich sie nach anderthalb Stunden abholen komme, freut sie sich zwar, mich zu sehen, würde aber lieber noch bleiben. Perfekt. Besser könnte es nicht laufen!
+Pauline bereitet mir währenddessen überhaupt keine Bauchschmerzen. Die liebt ihre Bezugserzieherin sehr. Sie steht morgens mit Jacke und Schuhen in der Hand vor der Tür und möchte bitte gehen. Und wenn ich sie nach anderthalb Stunden abholen komme, freut sie sich zwar, mich zu sehen, würde aber lieber noch bleiben. Perfekt. Besser könnte es nicht laufen! Jetzt möchte ich mich nur noch jobtechnisch neu aufstellen.
 
-Aber so ist das Leben, oder? Yin und Yang. Etwas ist besonders toll und etwas anderes läuft eben nicht so optimal. Irgendwie kann man wohl nicht alles haben. Aber ich arbeite trotzdem weiter dran.
+Das nehme ich jetzt in Angriff!
 
 
 
