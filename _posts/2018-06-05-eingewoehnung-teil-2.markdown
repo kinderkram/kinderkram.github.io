@@ -6,7 +6,7 @@ header:
 tags: ["Kind & Karriere", "Stillen", "Kleinkind"]
 ---
 
-** Jetzt läuft die Eingewöhnung seit über einem Monat. Eigentlich ziemlich gut. Johanna isst sogar schon hier. Fehlt nur noch der Mittagsschlaf. Und Pauline geht diese Woche auch den nächsten Schritt. Spannend! **
+**Jetzt läuft die Eingewöhnung seit über einem Monat. Eigentlich ziemlich gut. Johanna isst sogar schon hier. Fehlt nur noch der Mittagsschlaf. Und Pauline geht diese Woche auch den nächsten Schritt. Spannend!**
 
 <figure>
   <img src="../../../../../images/tafel.png" alt="">
