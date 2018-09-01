@@ -2,14 +2,14 @@
 title:  "{::nomarkdown}Lange Kita-Eingewöhnung die Zweite{:/}"
 date:   2018-06-05 10:00:00 +0200
 header:
-  teaser: ../../../../../images/teaser_teaser.png
+  teaser: ../../../../../images/tafel_teaser.png
 tags: ["Kind & Karriere", "Stillen", "Kleinkind"]
 ---
 
-**Jetzt läuft die Eingewöhnung seit über einem Monat. Eigentlich ziemlich gut. Johanna isst sogar schon hier. Fehlt nur noch der Mittagsschlaf. Und Pauline geht diese Woche auch den nächsten Schritt. Spannend! **
+** Jetzt läuft die Eingewöhnung seit über einem Monat. Eigentlich ziemlich gut. Johanna isst sogar schon hier. Fehlt nur noch der Mittagsschlaf. Und Pauline geht diese Woche auch den nächsten Schritt. Spannend! **
 
 <figure>
-  <img src="../../../../../images/teaser.png" alt="">
+  <img src="../../../../../images/tafel.png" alt="">
   <figcaption>Für die Schule haben sie noch hundert Jahre Zeit, Kindergarten und Krippe läuft jetzt.</figcaption>
 </figure>
 
