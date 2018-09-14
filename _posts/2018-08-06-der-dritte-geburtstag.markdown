@@ -9,7 +9,7 @@ tags: ["Familienleben", "Kleinkind"]
 **Johanna wird drei. Und das wird natürlich gefeiert! Dieses Jahr hat sie schon sehr genaue Vorstellungen von ihrer perfekten Geburtstagsparty. Ob die Mama denen auch entsprechen kann?**
 
 <figure>
-  <img src="../../../../../images/geburtstag3_teaser.png" alt="">
+  <img src="../../../../../images/geburtstag3.png" alt="">
   <figcaption>Von uns gab es nur ein Paar neuer Schuhe. Die Oma lässt sich immer schwer bremsen. Daher der gigantisch große Gabentisch.</figcaption>
 </figure>
 
