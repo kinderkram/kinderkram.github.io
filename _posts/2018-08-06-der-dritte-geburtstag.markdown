@@ -1,5 +1,5 @@
 ---
-title:  "{::nomarkdown}„Oh Gott, ich habe das Einhorn geköpft!“ - Drei Jahre und der erste „echte“ Geburtstag{:/}"
+title:  "{::nomarkdown}„Oh Gott, ich habe das Einhorn geköpft!“ - Der 3. Geburtstag{:/}"
 date:   2018-08-06 10:00:00 +0200
 header:
   teaser: ../../../../../images/geburtstag3_teaser.png
