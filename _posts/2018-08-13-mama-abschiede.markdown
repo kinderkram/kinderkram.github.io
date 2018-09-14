@@ -1,6 +1,6 @@
 ---
 title:  "{::nomarkdown}Mama-Abschiede{:/}"
-date:   2018-07-16 10:00:00 +0200
+date:   2018-08-13 10:00:00 +0200
 header:
   teaser: ../../../../../images/neuehaare_teaser.png
 tags: ["Kind & Karriere", "Familienleben", "Kleinkind"]

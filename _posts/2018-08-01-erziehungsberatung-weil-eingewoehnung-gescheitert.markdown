@@ -1,6 +1,6 @@
 ---
 title:  "{::nomarkdown}Eingewöhnung abgebrochen - Zur Erziehungsberatung?{:/}"
-date:   2018-07-16 10:00:00 +0200
+date:   2018-07-30 10:00:00 +0200
 header:
   teaser: ../../../../../images/omasee_teaser.png
 tags: ["Familienleben", "Kleinkind", "Stillen", "Kind & Karriere"]
