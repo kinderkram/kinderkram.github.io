@@ -1,15 +1,17 @@
 ---
-title:  "{::nomarkdown}Fast geschafft!{:/}"
-date:   2018-08-28 10:00:00 +0200
+title:  "{::nomarkdown}Here we go{:/}"
+date:   2018-09-20 10:00:00 +0200
 header:
-  teaser: ../../../../../images/versteckspiel_teaser.png
+  teaser: ../../../../../images/kuesschen_teaser.png
 tags:
 ---
-**Schluss mit verdeckt halten. Nur noch wenige Beiträge und ich bin so richtig live. Und ihr dann gleich mit!**
+**Bäm - Ab sofort sind wir live**
 
-Es hat sich einiges getan in den letzten Monaten. Johanna ist jetzt schon drei Jahre alt und Pauline wird am Wochenende 17 Monate. Mein Liebster ist wochenlang in Asien unterwegs und der Kindergarten hat Ferien. Da hab ich gut was zu tun hier. Vor allem, weil die Große ihren Mittagsschlaf abgeschafft hat und ich wirklich gar keine Pause mehr kriege. Und dann steht ja noch der Jobstart im Oktober vor der Tür! Alles so spannend! Aber darüber lasse ich mich noch ausführlich aus.
+Zack Bumm - Und da habe ich es geschafft, ein ganzes Jahr nachzuholen. Ab sofort sind die wöchentlichen Beiträge brandaktuell. Genau so schaut es gerade jetzt bei uns aus. Die Mädels sind gerade drei Jahre, beziehungsweise fast anderthalb Jahre alt und es stehen große Veränderungen bevor.
 
-Es gibt jetzt noch schubweise mehrere Artikel pro Woche aber spätestens Ende September sind wir in der Gegenwart. Und dann versuche ich mal, wie es hinhaut, mit den wöchentlich Neuigkeiten. 
+Pauline steckt immer noch in der Eingewöhnung. Aktuell bleibt sie anderthalb Stunden ohne mich in der Krippe. Halb elf hole ich sie wieder ab. Ab 1. Oktober gehe ich wieder arbeiten. Vollzeit. Im neuen Job. Die ersten beiden Oktober-Wochen wird der Papa die Eingewöhnung weiter führen und hoffentlich ganz erfolgreich abschließen. Der Herr Papa ist gerade frisch zurück von seiner zweieinhalb wöchigen Geschäftsreise in Thailand und Nepal. Ob das Auswirkungen auf die Bezihung zu den Mädels hatte? Wir werden sehen!
 
-Viel Spaß beim Lesen! Und bei Fragen aber auch für Kritik schreibt mir gern eine Mail an <info@katjaskinderkram.de>
+Da hier gerade richtig die Post abgeht und ich echt wenig Zeit habe, werde ich mich darauf verlagern, am Wochenende einen aktuellen Beitrag zusammen zu zimmern. Und ich hoffe, ihr lest gerne mit. 
+
+Viel Spaßdabei! Und bei Fragen aber auch für Kritik schreibt mir gern eine Mail an <info@katjaskinderkram.de>
 
