@@ -10,7 +10,7 @@ tags: ["Stillen", "Kleinkind", "Sozialleben", "Kind & Karriere"]
 
 <figure>
   <img src="../../../../../images/pusteblume.png" alt="">
-  <figcaption>Nach der Arbeit treffe ich Mann und Mädels immer auf einem Spielplatz. Solche Klamotten hatte ich die letzten zwei Jahre nicht mehr an. Die Klamotten fürs Büro lege ich mir am Vorabend raus, weil ich mich im Dunkeln anziehen muss. Crazy, oder?</figcaption>
+  <figcaption>Die vermutlich letzten warmen Tage verbringen wir im Park. Oder zumindest die Spätnachmittage. Mehr brauchts für die Hasen auch gar nicht.</figcaption>
 </figure>
 
 Zuerst  einmal:  Ich  hab  noch  nicht  die  Schnauze  voll.  Nur  Schluckbeschwerden.  Und  Kopfschmerzen.  Die  Nase  ist  auch  zu  und  ein  fetter  Husten  braut  sich  zusammen.  Ich  weiß  nicht  mehr,  wann  ich  das  letzte  mal  krank  war.  Wirklich  nicht.  All  die  angeschleppten  Kinderkrankheiten,  Durchfälle,  Hand-Mund-Fuß,  Streptokokken,  Bindehautentzündung  und  was  sonst  nicht  noch  alles  in  unserem  Kindergarten  grassierte,  konnte  mir  etwas  anhaben.  Meinen  Mädels  übrigens  auch  nicht.  Wir  haben  ein  erfreulich  gesundes  Jahr  2018  gehabt.  Pauline  war  hin  und  wieder  verschnupft  aber  so  richtig  dahingerafft  hat  uns  nix.  Keine  Krankentage.  Yes!
