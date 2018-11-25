@@ -1,6 +1,6 @@
 ---
 title:  "{::nomarkdown}Work-Life-Blabla{:/}"
-date:   2018-11-18250:00:00 +0200
+date:   2018-11-25 10:00:00 +0200
 header:
   teaser: ../../../../../images/plaetzchen_teaser.png
 tags: ["Kleinkind", "Kind & Karriere", "Familienleben"]
