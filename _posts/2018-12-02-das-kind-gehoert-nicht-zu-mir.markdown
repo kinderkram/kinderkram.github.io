@@ -10,7 +10,7 @@ tags: ["Kleinkind", "Erziehung", "Familienleben"]
 
 <figure>
   <img src="../../../../../images/kakao.png" alt="">
-  <figcaption>Das Kind hat sich am Kakao bedient. Notiz an mich: Packung höher platzieren!figcaption>
+  <figcaption>Das Kind hat sich am Kakao bedient. Notiz an mich: Packung höher platzieren!</figcaption>
 </figure>
 
 Johanna hat seit Freitag Abend einen gemeinen Reizhusten. Sie hüstelt die ganze Zeit vor sich hin aber ohne dass der Spaß produktiv wäre. Kennen wir alle. Ist wirklich ätzend. Wegen diesem Reizhusten jedenfalls hat sie schlecht geschlafen und stand morgens um sechs Uhr auch schon wieder auf der Matte. Johanna ist von Haus aus eher sensibel. Oder emotionsstark, was es etwas besser trifft. Sie kann sich minutenlang scheckig lachen und zwei Minuten später in Tränen aufgelöst sein. Wegen Nichtigkeiten. Nichtigkeiten aus Sicht eines Erwachsenen. Für sie sind das ernste Vergehen. Zum Beispiel wenn man ihr sagt, dass ein Rock heute nicht so praktisch wäre. Unter der Matschhose auf dem Spielplatz. In diesem Fall lasse ich mich auf ihre Wünsche ein. Soll sie halt. Ist ja für Johanna unbequem, nicht für mich. Sie liebt es aber zum Beispiel auch, sich meine Schals in die Haare zu knoten. Sie spielt dann Rapunzel und mein Schal ist ihre Haarverlängerung, quasi. Damit würde sie auch am liebsten schlafen gehen aber da lasse ich nicht mit mir verhandeln. Mir ist die Gefahr zu groß, dass sie sich im Schlaf mit dem Ding stranguliert also halte ich ihren Unmut aus. Und der kann über die Welt hinweg fegen, wie ein Tropensturm. Und da kommen wir zum Problem.
