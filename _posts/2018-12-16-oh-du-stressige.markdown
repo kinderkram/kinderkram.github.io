@@ -6,11 +6,11 @@ header:
 tags: ["Kleinkind", "Erziehung", "Familienleben", "Kind & Karriere", "Stillen"]
 ---
 
-**Weihnachhaaaachtszeit! Vier Familienmitglieder mit vier Weihnachtsfeiern in einer Woche, lassen wenig zeit, um sich um Blogs zu kümmern. Sorry dafür.**
+**Weihnachhaaaachtszeit! Vier Familienmitglieder mit vier Weihnachtsfeiern in einer Woche, lassen wenig Zeit, um sich um Blogs zu kümmern. Sorry dafür.**
 
 <figure>
   <img src="../../../../../images/tollwood_winter.png" alt="">
-  <figcaption>Das Kind hat sich am Kakao bedient. Notiz an mich: Packung höher platzieren!</figcaption>
+  <figcaption>Auf einen Weihnachtsmarkt haben wir es imerhin geschafft. Gestern aufs Tollwood.</figcaption>
 </figure>
 
 Jawoll. Ich habe eine Woche ausgesetzt. Ohne Ankündigung und sonst irgendwas. Aber das ist nichts Persönliches. Ich vergesse schließlich auch Kindergeburtstage. So geschehen letzten Sonntag. Nur die Nachricht der Mama des Geburtstagskindes gegen vier Uhr nachmittags ("Kommt ihr noch? Wir würden dann jetzt nämlich die Torte anschneiden.") hat mich daran erinnert. Scheiße, war mir das peinlich. Wie konnte das passieren? Ich habe natürlich umgehend ein "schlechtes-Gewissen-Ersatz-Geschenk" besorgt, dass das Geburtstagskind hoffentlich aus den Latschen haut aber der Geburtstag an sich kann halt auch nicht nachgeholt werden. Und das ist nicht der einzige Vorfall. Mein Hirn ist ein Schweizer Käse. So kenne ich das überhaupt nicht. Während erst alle die Schwangerschaft und hinterher die Stillzeit für ihre Vergesslichkeit verantwortlich machten, konnte ich das nie so recht nachvollziehen. Schreibt es halt auf. Kann ja nicht so schwer sein. Ich Idiot. Das ist nicht schwer. Das ist UNmöglich! Das fängt schon damit an, dass ich nie eine Hand frei habe zum Schreiben oder tippen. Denn mit meinen Händen umklammere ich fest das Klebstoff-Kind. Das Kleinere von beiden. Denn das tankt mit jeder Sekunde MAMA, die es erhaschen kann. Und das größere Kind hat ebenfalls beschlossen, dass ich total super bin und der Papa nur schmückendes Beiwerkt in unserem Famlienkonstrukt.
