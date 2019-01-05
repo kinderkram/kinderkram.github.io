@@ -2,14 +2,14 @@
 title:  "{::nomarkdown}Neues Jahr, neue Erfahrungen{:/}"
 date:   2019-01-05 10:00:00 +0200
 header:
-  teaser: ../../../../../images/schlittenvorbereitung_teaser.png
+  teaser: ../../../../../images/schlitten1_teaser.png
 tags: ["Kleinkind", "Sozialleben", "Kind & Karriere", "Stillen"]
 ---
 
 **Weihnachten und Silvester liegen hinter uns. Ich bin grad mit den Mädels von meinen Eltern zurück gekommen und wir toben im Schnee. Was das neue Jahrfür uns bereit hält? Eine ganze Menge!**
 
 <figure>
-  <img src="../../../../../images/schlittenvorbereitung.png" alt="">
+  <img src="../../../../../images/schlitten1.png" alt="">
   <figcaption>Voll ausgerüstet zum Rodeln - Wir lieben den Winter! Wenn er denn Schnee bringt.</figcaption>
 </figure>
 
