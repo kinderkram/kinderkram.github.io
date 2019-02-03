@@ -6,7 +6,7 @@ header:
 tags: ["Kleinkind", "Kinderbetreuung", "Kind & Karriere"]
 ---
 
-**Aloha zusammen. Diese Woche ist meine Mumda, um die Betreuungslücke zu schließen. In dieser Zeit tüfteln wir an einer mittelfristigen Lösung, um das Kind in der Kita endlich glücklich werden zu lassen und aus genau diesen Gründen, finde ich gerade einfach keine Zeit, ausführlich zu schreiben. **
+**Aloha zusammen. Diese Woche ist meine Mum da, um die Betreuungslücke zu schließen. In dieser Zeit tüfteln wir an einer mittelfristigen Lösung, um das Kind in der Kita endlich glücklich werden zu lassen und aus genau diesen Gründen, finde ich gerade einfach keine Zeit, ausführlich zu schreiben. **
 
 <figure>
   <img src="../../../../../images/trx.png" alt="">
