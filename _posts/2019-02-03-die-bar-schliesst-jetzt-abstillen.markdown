@@ -6,7 +6,7 @@ header:
 tags: ["Kleinkind", "Kinderbetreuung", "Kind & Karriere", "Stillen"]
 ---
 
-**Wir stillen jetzt ab. Das haben Kind und Mama irgendwie gleichzeitig beschlossen. Doch das WIE gestaltet sich ein bisschen schwierig. **
+** Wir stillen jetzt ab. Das haben Kind und Mama irgendwie gleichzeitig beschlossen. Doch das WIE gestaltet sich ein bisschen schwierig. **
 
 <figure>
   <img src="../../../../../images/botanischergarten.png" alt="">
