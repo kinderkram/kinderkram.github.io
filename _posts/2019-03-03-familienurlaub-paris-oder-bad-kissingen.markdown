@@ -1,6 +1,6 @@
 ---
 title:  "{::nomarkdown}Familienurlaub in „Ich-werde-alt“{:/}"
-date:   2019-02-03 10:00:00 +0200
+date:   2019-03-03 10:00:00 +0200
 header:
   teaser: ../../../../../images/eismitpapa_teaser.png
 tags: ["Kleinkind", "Sozialleben", "Reisen mit Kind"]
