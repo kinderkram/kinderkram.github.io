@@ -1,6 +1,6 @@
 ---
 title:  "{::nomarkdown}Babyboom und Schwangerschafts-Paranoia{:/}"
-date:   2019-03-10 10:00:00 +0200
+date:   2019-03-17 10:00:00 +0200
 header:
   teaser: ../../../../../images/wildtierpark_teaser.png
 tags: ["Kleinkind", "Sozialleben", "Reisen mit Kind"]
