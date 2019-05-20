@@ -10,7 +10,7 @@ tags: ["Kleinkind", "Sozialleben", "Kind & Karriere"]
 
 <figure>
   <img src="../../../../../images/hut.png" alt="">
-  <figcaption>Von Pauline kann ich viel lernen - die setzt klare Grenzen.</figcaption>
+  <figcaption>Von Pauline kann ich viel lernen - die setzt klare Grenzen. In ihrem Teil des Sandkatsens hat keiner was verloren.</figcaption>
 </figure>
 
 Aloha. Was war das für ein herrliches Wochenende bei uns! Sonne satt nach langer Durststrecke. Das haben wir natürlich genutzt. Samstag waren wir auf den Hofflohmärkten in Haidhausen. Das war mega. So richtig Festivalstimmung. Mittagessen beim Italiener und am Nachmittag grillen im Garten bei Freunden. Ein Tag wie gemalt. Und so dringend nötig! Um die Akkus wieder aufzuladen von der langen Woche. Ich hatte nämlich Tage, an denen ich von sechs bis sechs gearbeitet habe und wenn man schon weiß, dass es für einen beruflich so nicht weitergehen wird, ist das extra hart. Aber das ist ein anderes Thema. Meine größte Baustelle gerade aber ich bin noch nicht sortiert genug, um darüber zu schreiben. Kommt aber sicher.
