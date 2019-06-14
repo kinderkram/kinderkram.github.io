@@ -10,7 +10,7 @@ tags: ["Kleinkind", "Sozialleben", "Gesundheit"]
 
 <figure>
   <img src="../../../../../images/dosenwerfen.png" alt="">
-  <figcaption>Die Kindergeburtstags-Saison geht bei uns volle Kanne los. Mittlerweile gibt es auch richtige Siele, wie das gute alte Dosenwerfen. Paulinchen hier schummelt ein bisschen.</figcaption>
+  <figcaption>Die Kindergeburtstags-Saison geht bei uns volle Kanne los. Mittlerweile gibt es auch richtige Spiele, wie das gute alte Dosenwerfen. Paulinchen hier schummelt ein bisschen.</figcaption>
 </figure>
 
 Mir geht’s nicht gut. Bei der kleinsten Anstrengung beginnt mein Herz zu rasen. Mein sonst immer sehr niedriger Blutdruck ist hoch. So hoch, dass ich Kopfschmerzen davon bekomme und das Gefühl habe, das Herz würde einfach platzen. Mein Brustkorb wird zu eng beim Versuch des tiefen Durchschnaufens. Und weil das alles ganz plötzlich da war und für mich neu ist, macht mir das Sorgen. Große Sorgen. Ich muss auch ständig gucken, dass es mich nicht direkt aus den Latschen haut. Schwindelig ist mir nämlich auch. Und weil ich fast ausschließlich mit dem Radl unterwegs bin, kann das gefährlich werden.
