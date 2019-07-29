@@ -6,7 +6,7 @@ header:
 tags: ["Kleinkind", "Sozialleben", "Schwangerschaft", "Baby"]
 ---
 
-**Meine Mädels sehen nicht nur sehr verschieden aus, sie sind es auch vom Charakter her. Haben wir dieses Wochenende erst wieder festgestellt. Denn während das Herz unserer Großen für edles Geschmeide und gepflegtes Amüsement schlägt, möchte unsere aktuell noch Kleine lieber reiten und kämpfen. **
+**Meine Mädels sehen nicht nur sehr verschieden aus, sie sind es auch vom Charakter her. Haben wir dieses Wochenende erst wieder festgestellt. Denn während das Herz unserer Großen für edles Geschmeide und gepflegtes Amüsement schlägt, möchte unsere aktuell noch Kleine lieber reiten und kämpfen.**
 
 <figure>
   <img src="../../../../../images/eklapperhandg.png" alt="">
