@@ -6,7 +6,7 @@ header:
 tags: ["Kleinkind", "Sozialleben", "Schwangerschaft", "Baby"]
 ---
 
-**Juhuu, endlich Urlaub! Zumindest für die Kinder. Für mih sind die drei Wochen Kita-Schließung auch schön. Aber auch jede Menge Arbeit.**
+**Juhuu, endlich Urlaub! Zumindest für die Kinder. Für mich sind die drei Wochen Kita-Schließung auch schön. Aber auch jede Menge Arbeit.**
 
 <figure>
   <img src="../../../../../images/pfuetzenspringen.png" alt="">
