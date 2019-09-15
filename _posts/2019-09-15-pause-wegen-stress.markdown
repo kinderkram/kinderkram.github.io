@@ -6,7 +6,7 @@ header:
 tags: ["Kleinkind", "Sozialleben", "Schwangerschaft", "Baby"]
 ---
 
-**Diese Woche bin so erledigt, dass ich mir sogar dreimal überlege ob ich wirklich genug Durst habe, um aufzustehen und Richtung Kühlschrank zu trotten. Schuld ist das Wochenendprogramm. Ja, hab ich denn noch alle Latten am Zaun?**
+**Diese Woche bin so erledigt, dass ich mir sogar dreimal überlege, ob ich wirklich genug Durst habe, um aufzustehen und Richtung Kühlschrank zu trotten. Schuld ist das Wochenendprogramm. Ja, hab ich denn noch alle Latten am Zaun?**
 
 <figure>
   <img src="../../../../../images/flohmarkt_backstage.png" alt="">
