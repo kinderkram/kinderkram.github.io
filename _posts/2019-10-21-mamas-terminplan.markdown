@@ -6,7 +6,7 @@ header:
 tags: ["Kleinkind", "Schwangerschaft", "Baby"]
 ---
 
-**Du bist ja jetzt zu Hause. Da kannst du ja endlich in Ruhe... Ähm, nee. Wird schwierig. Ich bin vier Stunden am Tag ohne Kind. Und in diese vier Stunden versuche ich alles zu quetschen, was ansteht. **
+**Du bist ja jetzt zu Hause. Da kannst du ja endlich in Ruhe... Ähm, nee. Wird schwierig. Ich bin vier Stunden am Tag ohne Kind. Und in diese vier Stunden versuche ich alles zu quetschen, was ansteht.**
 
 <figure>
   <img src="../../../../../images/drache.png" alt="">
