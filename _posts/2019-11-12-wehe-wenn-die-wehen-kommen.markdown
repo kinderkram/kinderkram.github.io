@@ -10,7 +10,7 @@ tags: ["Schwangerschaft", "Baby"]
 
 <figure>
   <img src="../../../../../images/kugelbauch.png" alt="">
-  <figcaption>Schon wieder ein Spiegelfoto. Wenn ich die nicht machen würde, gäbe es gar keine Bilder vom dritten Babybauch. Aber sieht der echt gesenkt aus? Nee, oder? Mir gefällt die Kugel ganz gut.</figcaption>
+  <figcaption>Schon wieder ein Spiegelfoto. Wenn ich die nicht machen würde, gäbe es gar keine Bilder vom dritten Babybauch. Aber sieht der echt gesenkt aus? Nee, oder? Mir gefällt die Kugel ganz gut. Ab morgen 32.te Woche.</figcaption>
 </figure>
 
 Nicht falsch verstehen. Ich weiß durchaus, wie sich Wehen anfühlen. Geburtswehen! Andere hatte ich nämlich noch nie. Bei Johanna kam die erste Wehe zehn Minuten nach dem splattermäßigen Blasensprung. Ging sofort los mit alle zehn Minuten regelmäßig und die Abstände dazwischen verkürzten sich schnell. Am Ende wehte ich 15 Stunden. Und hing auf dem Klo, lag schwitzend und zitternd auf dem Boden des Kreißsaals, kotze mir die Seele aus dem Leib und überhaupt fand ich dieses ganze Wehen-Ding unfassbar und unmenschlich schmerzhaft. Zusätzlich hatte ich die ganze Zeit die Hebamme aus dem Geburtsvorbereitungskurs im Ohr. „Jede Wehe bringt euch eurem Kind näher. Es ist ein Geschenk. Nehmt den Schmerz an.“ Ich habe sie gehasst für diese Ansagen! Am Ende wurde es wegen abfallender Herztöne meiner Püppi eine sekundäre Sectio. Mit der ich jahrelang gehadert habe. Versager. Keine richtige Mama und so. War nicht schön.
