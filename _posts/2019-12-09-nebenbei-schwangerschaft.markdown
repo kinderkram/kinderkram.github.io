@@ -6,7 +6,7 @@ header:
 tags: ["Schwangerschaft", "Baby", "Partnerschaft", ]
 ---
 
-**Wie schaffen das andere Mütter mit schon vorhandenen Kleinkindern und Schwangersein? Das mit dem Genießen und Zauber des entstehenden Lebens und so. Ich kriege es jedenfalls nicht so gut gebacken, mich auf das neue Familienmitglied zu konzentrieren. **
+**Wie schaffen das andere Mütter mit schon vorhandenen Kleinkindern und Schwangersein? Das mit dem Genießen und Zauber des entstehenden Lebens und so. Ich kriege es jedenfalls nicht so gut gebacken, mich auf das neue Familienmitglied zu konzentrieren.**
 
 <figure>
   <img src="../../../../../images/esistnochsuppeda.png" alt="">
