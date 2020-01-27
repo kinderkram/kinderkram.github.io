@@ -3,7 +3,7 @@ title:  "{::nomarkdown}Eine Woche nach der Geburt: Babyblues im Wochenbett{:/}"
 date:   2020-01-22 10:00:00 +0200
 header:
   teaser: ../../../../../images/willstdueinenschneemannbauen_teaser.png
-tags: ["Schwangerschaft", "Baby", "Kleinkind", "Geburt"]
+tags: ["Schwangerschaft", "Baby", "Kleinkind", "Geburt", "Wochenbett"]
 ---
 
 **Es ist das dritte Kind und trotzdem hat es mich ziemlich überraschend überrollt: Der Babyblues hat voll zugeschlagen. Das Einfinden als neu zusammengewürfelte Familie tut ihr übriges dazu.**
