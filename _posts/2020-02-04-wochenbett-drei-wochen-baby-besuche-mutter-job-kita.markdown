@@ -3,7 +3,7 @@ title:  "{::nomarkdown}3 Wochen Baby: Rushhour im Wochenbett und die Rückkehr i
 date:   2020-02-04 10:00:00 +0200
 header:
   teaser: ../../../../../images/muede_teaser.png
-tags: ["Baby", "Kleinkind", "Geburt", "Wochenbett", "Kind & Karriere"]
+tags: ["Baby", "Kleinkind", "Geburt", "Wochenbett", "Kind & Karriere", "Job & Geld"]
 ---
 
 **Der kleine Mann ist heute auf den Tag drei Wochen alt. Mein erwachsener Mann ist diese Woche wieder regulär arbeiten und ich versuche, den Alltag mit drei Kindern unter 5 Jahren zu wuppen. Geht eigentlich. Wenn die Woche nicht direkt wieder mit einer Hiobsbotschaft begonnen hätte…**
