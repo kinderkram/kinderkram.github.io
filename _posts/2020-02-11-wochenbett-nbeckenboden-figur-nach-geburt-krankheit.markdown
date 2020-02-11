@@ -2,15 +2,15 @@
 title:  "{::nomarkdown}Vier Wochen Baby – Probleme im Wochenbett und der Scheiß Druck auf uns Mütter{:/}"
 date:   2020-02-04 10:00:00 +0200
 header:
-  teaser: ../../../../../images/muede_teaser.png
+  teaser: ../../../../../images/kiwi_teaser.png
 tags: ["Baby", "Kleinkind", "Geburt", "Wochenbett", "Kind & Karriere"]
 ---
 
 **Mein Alexander ist heute auf den Tag vier Wochen alt. Und weil es mir nach der Geburt körperlich offenbar zu gut ging, bekomme ich jetzt die volle Breitseite. Woran merkt man eigentlich, dass man sich gerade den Beckenboden ruiniert?**
 
 <figure>
-  <img src="../../../../../images/muede.png" alt="">
-  <figcaption>Der müde Krümel und die noch müdere (gibt es das Wort eigentlich?) Mama nach einer durchzechten Nacht. Okay. Der Kurze hat gezecht. Hing die ganze Nacht an der Bar. Ich musste leider mitmachen. Bin ja die Bar.</figcaption>
+  <img src="../../../../../images/kiwi.png" alt="">
+  <figcaption>Wenn ich ein Foto im Liegen machen will, muss ich schnell sein. Bevor er wieder heult. Hier hat es mal geklappt.</figcaption>
 </figure>
 
 Ich habe mich gefragt, wie ich das eigentlich bei den Mädels gemacht habe. Aber da hatte ich nach den Geburten ja quasi Zwangspause. Johanna war eine sekundäre Sectio. Da konnte ich mir die ersten Tage und Wochen nach der Geburt noch nicht vorstellen, dass ich JEMALS wieder Sport treiben könnte. Oder mich jemals wieder trauen würde kacken zu gehen. Ich sag jetzt einfach mal, wie es ist. Verzeiht mir. Nach Pauline folgten durch den abgeklemmten Nerv im Rücken und die Bandscheibenvorfälle die Schmerzen meines Lebens. Da war ich komplett bewegungsunfähig. Erst die OP und anschließende REHA brachten Erleichterung. Tja. Wie sich jetzt herausstellen sollte, hat zumindest Einer von der Bewegungsunfähigkeit nach den Geburten profitiert: Mein Beckenboden. 
