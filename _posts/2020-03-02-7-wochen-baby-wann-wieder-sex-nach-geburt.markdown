@@ -6,11 +6,11 @@ header:
 tags: ["Baby", "Kleinkind", "Wochenbett"]
 ---
 
-**Guten Morgen kleiner Bruder. Das Bett ist seit den Kindern einfach nicht mehr, was es früher mal war. Spätestens in den Morgenstunden ist hier Full House. Ich wette, das Baby würde ohne seine großen Schwestern viel länger schlafen. Aber ich wette auch, dass es sich positiv auswirkt, mit so viel Liebe überschüttet zu werden.**
+**Welches Thema nehme ich denn diese Woche bloß? Vielleicht beide. Ist ja auch beides wichtig. Wie man sich als Eltern von drei kleinen Kindern wieder näherkommen kann? Am besten, wenn man den Kopf frei hat. Schwierig, wenn man den älteren Kindern gegenüber ständig ein schlechtes Gewissen hat.**
 
 <figure>
   <img src="../../../../../images/hallokleinerbruder.png" alt="">
-  <figcaption>Hier sitze ich mit Alex zumindest schon mal am Frühstückstisch. Oft schmiere ich mir eben ein Brot, dass ich auf dem Weg zur Kita verspachtle, wenn ich Pauline abhole.</figcaption>
+  <figcaption>Guten Morgen kleiner Bruder. Das Bett ist seit den Kindern einfach nicht mehr, was es früher mal war. Spätestens in den Morgenstunden ist hier Full House. Ich wette, das Baby würde ohne seine großen Schwestern viel länger schlafen. Aber ich wette auch, dass es sich positiv auswirkt, mit so viel Liebe überschüttet zu werden.</figcaption>
 </figure>
 
 Es ist schwierig zur Zeit, diesen Blog jede Woche aktuell zu halten. Alexander lässt sich immer noch nicht ablegen und wenn ich an meine Mädels so denke, könnte das auch noch das ganze kommende Jahr so bleiben. Aber schauen wir mal. Es ist schön, dass er jetzt immer wacher wird. Alex ist ein ganz freundlicher kleiner Kerl. Nur der Körperkontakt zu mir darf halt nicht abbrechen. Er steht jetzt auch voll auf Vorsingen und Fingerspiele. Also sowas wie zehn kleine Zappelfinger. Und wenn die Zappelfinger gerade das Baby bespaßen, können sie logischerweise nix in die Tatstatur hacken. Mach ich dann jetzt, halb zehn Uhr abends. Und danach geh ich direkt ins Bett. Ohne meinen Mann übrigens. Der ist nämlich eine Eule. Ich bin eine Lerche. War ich auch schon vor den Kindern aber MIT ihnen werden auch Lerchen echt an ihre Grenzen gebracht. Früh aufstehen find ich prinzipiell okay. Früh aufstehen, nach einer Nacht mit sechs Mal Stillen, springe ich nicht mehr ganz so locker aus dem Bett. Und das wirkt sich natürlich auch auf andere Aktivitäten im Bett aus. 
