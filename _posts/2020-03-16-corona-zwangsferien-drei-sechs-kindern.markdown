@@ -10,7 +10,7 @@ tags: ["Baby", "Kleinkind", "Corona"]
 
 <figure>
   <img src="../../../../../images/wiesenflitzer.png" alt="">
-  <figcaption>Ohne raus gehen, würden wir eingehen. Auf dem Spielplatz habe ich ein schlechtes Gewisen. Also rennen wir über Wiesen. Mal gucken, wie lange das spannend bleibt.</figcaption>
+  <figcaption>Ohne raus gehen, würden wir eingehen. Auf dem Spielplatz habe ich ein schlechtes Gewissen. Also rennen wir über Wiesen. Mal gucken, wie lange das spannend bleibt.</figcaption>
 </figure>
 
 Challenge Nummer eins: diesen Beitrag schreiben. Vielleicht schaffe ich es bis heute Abend noch. Ich bin ja hoffnungslos optimistisch. Heute haben wir Johannas beste Kita-Freundin hier. Ihre Eltern müssen arbeiten. Da sie aber zu den Berufsgruppen gehören, die gerade wichtig sind, darf die kleine Anna ab morgen wahrscheinlich zur Notbetreuung. Das stellt sich heute noch im Laufe des Tages heraus. Falls das nicht kurzfristig klappen sollte, würde ich sie die nächsten Tage noch bei uns behalten. EIN Kind zusätzlich find ich recht easy zu wuppen. Vor allem dann, wenn es sich gut mit den Mädels versteht. Wie in diesem (Ideal-)Fall jetzt: Sogar mit beiden Mädels. Dann bleibt keine außen vor. Das ist aber selten. Oft wollen die Großen dann unter sich sein, was ja auch verständlich und okay ist. 
