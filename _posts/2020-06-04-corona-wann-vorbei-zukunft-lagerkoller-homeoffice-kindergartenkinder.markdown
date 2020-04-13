@@ -1,6 +1,6 @@
 ---
 title:  "{::nomarkdown}„Wie lange ist denn noch Corona?“{:/}"
-date:   2020-03-30 10:00:00 +0200
+date:   2020-04-06 10:00:00 +0200
 header:
   teaser: ../../../../../images/sandmuschel.png
 tags: ["Baby", "Kleinkind", "Corona"]
