@@ -6,11 +6,11 @@ header:
 tags: ["Baby", "Kleinkind", "Corona", Erstesmal"]
 ---
 
-**Aufregendes passiert in „Durch-Corona-ist-die-Kita-zu-Woche-14“. Ab nächster Woche haben wir wieder Betreuungsanspruch in der Kita. Und: unsere Johanna will zum allerersten Mal überhaupt auswärts übernachten. Und ich hab Bauchschmerzen dabei.**
+**Aufregendes passiert in Coronawoche 14. Ab nächster Woche haben wir wieder Betreuungsanspruch in der Kita. Und: unsere Johanna will zum allerersten Mal überhaupt auswärts übernachten.**
 
 <figure>
   <img src="../../../../../images/kletterbaum.png" alt="">
-  <figcaption>Hoch hinaus und ein ganzes Stück weg von der Mama. it 3 und 4 trauen sich die Mädels immer mehr zu.</figcaption>
+  <figcaption>Hoch hinaus und ein ganzes Stück weg von der Mama. Mit 3 und 4 trauen sich die Mädels immer mehr zu.</figcaption>
 </figure>
 
 Sie hat so an mir gehangen. Wenn ich zur Rückbildung war, kam oft der Anruf meines Mannes: Johanna brüllt sich blau. Bitte komm schnell heim. Und kaum flog ich zur Tür herein, kuschelte sich mein Baby an mich, sah mich erschöpft an und schlief augenblicklich in meinem Arm ein. So war das mit meiner kleinen Johanna. Das ist jetzt bald fünf Jahre her und meine Tochter ist ganz schön groß geworden. Und mutig! Letztens ist sie allein mit der Arzthelferin gegangen. In dem Wissen, dass sie gleich gepiekst wird. Ein kleiner Tropfen Blut. Eine große Sache für die Maus. Ich war echt überrascht. Dass sie sich das überhaupt getraut hat. Sie springt jetzt auch vom Traktor auf dem Spielplatz und ich bin mir nicht Hundertprozent sicher aber ich vermute fast, dass sie sich inzwischen auch trauen würde, ALLEIN auf einen Kindergeburtstag zu gehen. Hat sie bis dato nicht aber der letzte Kindergeburtstag mit dazugehöriger Party ist auch verdammt lang her! Und jetzt: Will sie echt alleine bei der Oma schlafen. Und die wohnt 300km weit weg. Puh.
