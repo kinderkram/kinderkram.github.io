@@ -2,14 +2,14 @@
 title:  "{::nomarkdown}Ciao Blinddarm – Wenn die Mama ins Krankenhaus muss…{:/}"
 date:   2020-07-27 10:00:00 +0200
 header:
-  teaser: ../../../../../images/thrombosestruempfe.png
+  teaser: ../../../../../images/trhombosestruempfe_teaser.png
 tags: ["Kleinkind", "Gesundheit", "Baby", Körper & Fitness"]
 ---
 
 **… dann ist erstmal Organisation gefragt! Letzte Woche lief sonnig an und endete zackig auf dem OP-Tisch. Kinderbetreuung, ein voll gestilltes Baby und die Muddi in Vollnarkose. Was für ein Spaß! NICHT.**
 
 <figure>
-  <img src="../../../../../images/thrombosestruempfe.png" alt="">
+  <img src="../../../../../images/trhombosestruempfe.png" alt="">
   <figcaption>"Ruhen Sie sich aus und schonen Sie sich, so gut es geht!" Klingt echt wie ein Witz, wenn man mit mobilem Baby auf dem Krankenhausbett lebt.</figcaption>
 </figure>
 
