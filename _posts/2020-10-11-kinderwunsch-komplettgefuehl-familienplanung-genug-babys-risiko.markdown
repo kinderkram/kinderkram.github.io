@@ -10,7 +10,7 @@ tags: ["Baby", "Kinderwunsch", "Kind & Karriere"]
 
 <figure>
   <img src="../../../../../images/kopfstand.png" alt="">
-  <figcaption>Ein neues Familienmitglied stellt erstmal alles auf den Kopf. Johanna hat das schon zwei mal prima gemeistert. Würde sie es auch ein viertes Mal schaffen?</figcaption>
+  <figcaption>Ein neues Familienmitglied stellt erstmal alles auf den Kopf. Johanna hat das schon zwei mal prima gemeistert. Würde sie es auch ein drittes Mal schaffen?</figcaption>
 </figure>
 
 Nach der Geburt von Alex und die ersten drei Monate danach war ich ganz zufrieden mit unserer Familienkonstellation. Bin ich immer noch. Wir haben uns toll zusammengerauft. Der Kleine gehört fest mit zu unserer Crew und die Geschwister untereinander verstehen sich auch prima. Perfekt! Natürlich gibt’s im Familienleben kein perfekt. Johanna hat Pauline heute mit dem Hinterkopf an die Tischkante geschubst weil Paulinchen ohne mit der Wimper zu zucken, den kunstvollen Turm aus Magnetbausteinen zerstört hat. Extra, nur um die große Schwester auf die Palme zu bringen. Hat dann aber besser geklappt, als von Pauline vorhergesehen. Das mit dem Wütendmachen. Aber hey! Das sind fünf Minuten in sonst ziemlich harmonischen 24 Stunden. Das ist ein spitzen Wert. Da haben wir auch deutlich schlechtere Tage aber in der Regel klappts einfach gut. Wir achten aufeinander und haben uns allermeistens ganz schrecklich soll lieb. Zumindest bis wieder einer kommt und heimlich die ganze Käsekruste vom Auflauf frisst. Wurscht. Ihr wisst, was ich meine. 
