@@ -23,7 +23,7 @@ Johanna kam einen Tag nach ihrem ersten Geburtstag in die Krippe. Simon übernah
 
 Also verlor ich diesen Job. Pauline ist mittlerweile drei einhalb Jahre alt und geht okay gerne in den Kindergarten. Das ist der Unterschied. KinderGARTEN. Da wird nicht mehr geschlafen UND ihr bester Freund kam in ihre Gruppe. Jackpot. Es passt jetzt. Sie ist einfach auch geistig und emotional reif genug. War sie vorher nicht. Und ICH werde mir diesen Schuh auch nicht mehr anziehen. So jedenfalls der Plan. 
 
-Und morgen startet Alex. Unter anderen Bedingungen. Ist ja auch ein anderes Kind. Eines, das übrigens unter Affektkrämpfen leidet. Er wird blau und fällt in Ohnmacht wenn er sich wehtut oder gefrustet ist und ich ihn nicht SOFORT tröste. Spitzen Ausgangslage also. Aber wer weiß? Am Ende überrascht uns unser Jüngster. Und macht das alles super.
+Und morgen startet Alex. Unter anderen Bedingungen. Ist ja auch ein anderes Kind. Eines, das übrigens unter Affektkrämpfen leidet. Er wird blau und fällt in Ohnmacht wenn er sich wehtut oder gefrustet ist und ich ihn nicht SOFORT tröste. Spitzen Ausgangslage also. Aber wer weiß? Am Ende überrascht uns unser Jüngster. Und macht das alles super. 
 
 
 
