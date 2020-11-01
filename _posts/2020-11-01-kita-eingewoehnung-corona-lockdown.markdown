@@ -2,14 +2,14 @@
 title:  "{::nomarkdown}Kita-Eingewöhnung mit Corona und der nächste Lockdown{:/}"
 date:   2020-11-01 10:00:00 +0200
 header:
-  teaser: ../../../../../images/babyfleece_teaser.png
+  teaser: ../../../../../images/mittagsschlaf_teaser.png
 tags: ["Baby", "Stillen", "Corona", "Kita"]
 ---
 
 **Klein Alex war gerade vier Tage in der Kita und schon kommt der nächste Lockdown. Müssen wir Dank Corona eh bald nochmal von vorn mit der Eingewöhnung starten?**
 
 <figure>
-  <img src="../../../../../images/babyfleece.png" alt="">
+  <img src="../../../../../images/mittagsschlaf.png" alt="">
   <figcaption>Ich liebe Mittagsschlaf mit Baby. Wie er so da liegt, die verschwitzten Löckchen an den Ohren. Da finde ich den Gedanken einfach traurig, dass diese Zeit so bald vorbei sein soll.</figcaption>
 </figure>
 
