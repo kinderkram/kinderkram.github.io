@@ -3,7 +3,7 @@ title:  "{::nomarkdown}Kita-Eingewöhnung mit Corona und der nächste Lockdown{:
 date:   2020-11-01 10:00:00 +0200
 header:
   teaser: ../../../../../images/babyfleece_teaser.png
-tags: ["Baby", "Stillen", "Familienleben", "Corona", "Kita"]
+tags: ["Baby", "Stillen", "Corona", "Kita"]
 ---
 
 **Klein Alex war gerade vier Tage in der Kita und schon kommt der nächste Lockdown. Müssen wir Dank Corona eh bald nochmal von vorn mit der Eingewöhnung starten?**
