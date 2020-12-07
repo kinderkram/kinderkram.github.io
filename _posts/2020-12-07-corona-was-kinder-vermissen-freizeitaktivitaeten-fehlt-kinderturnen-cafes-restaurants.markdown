@@ -10,7 +10,7 @@ tags: ["Baby", "Corona", "Familienleben"]
 
 <figure>
   <img src="../../../../../images/weihnachtsalex.png" alt="">
-  <figcaption>Mein Sohn im Weihnachtsoutfit. Wir machen bei meiner Lieblingsnachbarin unter uns Fotos. Seine Oma wird sie als Weihnachtsgeschenk bekommen. Wir sehen uns dieses Jahr nicht.</figcaption>
+  <figcaption>Mein Sohn im Weihnachtsoutfit. Wir machen bei meiner Lieblingsnachbarin unter uns Fotos. Seine Oma wird sie als Weihnachtsgeschenk bekommen. Wir sehen uns dieses Jahr nicht. Wegen...?</figcaption>
 </figure> 
 
 Johanna war gestern genervt. „Können wir Trampolin springen gehen?“ 
