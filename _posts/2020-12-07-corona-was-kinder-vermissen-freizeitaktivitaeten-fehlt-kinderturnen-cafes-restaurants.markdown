@@ -13,11 +13,11 @@ tags: ["Baby", "Corona", "Familienleben"]
   <figcaption>Mein Sohn im Weihnachtsoutfit. Wir machen bei meiner Lieblingsnachbarin unter uns Fotos. Seine Oma wird sie als Weihnachtsgeschenk bekommen. Wir sehen uns dieses Jahr nicht. Wegen...?</figcaption>
 </figure> 
 
-Johanna war gestern genervt. „Können wir Trampolin springen gehen?“ 
-„Nein Kind. Die Anlagen haben alle geschlossen. Wegen Corona. 
-„Na gut. Dann Zoo!“ „Geht auch nicht. Wegen Corona!“
-„Corona ist total doof! Dann eben in die Sportgeister. Oder Kinderturnen!“
-„Es tut mir von Herzen leid mein Schatz. Aber das hat gerade alles geschlossen …“
+Johanna war gestern genervt. „Können wir Trampolin springen gehen?“<br> 
+„Nein Kind. Die Anlagen haben alle geschlossen. Wegen Corona.<br>
+„Na gut. Dann Zoo!“ „Geht auch nicht. Wegen Corona!“<br>
+„Corona ist total doof! Dann eben in die Sportgeister. Oder Kinderturnen!“<br>
+„Es tut mir von Herzen leid mein Schatz. Aber das hat gerade alles geschlossen …“<br>
 Kind (völlig genervt): „Ja, ja. Wegen Corona. Ich weiß schon. Ich HASSE Cornona!!“
 
 Ich auch mein Schatz. Ich auch… Ja, wir jammern hier auf hohem Niveau. Von mir aus könnten sie auch nochmal einen Monat alles komplett dicht machen, damit wir die Zahlen endlich runter bekommen aber das hier gerade, das ist einfach traurig. Auch für uns, denen es gut geht. Wir sind gesund, ich noch in Elternzeit, Mann im Homeoffice, Kinder haben Geschwister zum Spielen und bliblablub. Ist ja alles schön und gut aber mir gehen dieser Tage SO VIELE lieb gewonnenen Aktivitäten ab. Unser Familienleben am Wochenende ist mit bestimmten Unternehmungen einfach schöner. Klar machen wir auch so immer das Beste draus aber weil ich eine undankbare Kuh bin, zähle ich jetzt einfach mal auf, was mir am meisten fehlt.
