@@ -1,5 +1,5 @@
 ---
-title:  "{::nomarkdown}„Corona soll endlich weggehen!“ – Was den Kindern und mir am meisten fehlt{:/}"
+title:  "{::nomarkdown}„Corona soll endlich weggehen!“ – Was Kindern und Mama am meisten fehlt{:/}"
 date:   2020-12-07 10:00:00 +0200
 header:
   teaser: ../../../../../images/weihnachtsalex_teaser.png
