@@ -30,7 +30,7 @@ Mir fehlt der Zoo. Da waren wir fast alle zwei Wochen. Einfach so. Zum Spazieren
 
 Weihnachtsmärkte. Besonders das Tollwood. Tut mir echt leid aber als absoluter Weihnachtsmensch liiiiiiiiiieeeebe ich diese Märkte einfach. Und die Kinder auch. Lichterzauber, gebrannte Mandeln, heiße Maroni, Kinderpunsch und hübsche Kleinigkeiten entdecken. Auf dem Tollwood noch rumklettern in den Gastrozelten oder basteln in der Tief im Wald Bar. 
 
-Seit dem Frühjahr ziehen wir unsere Runden durch Parks und Wälder in München. Aber jetzt – so nach hinten raus in diesem völlig wahnsinnigen 2020, geht mir die Luft aus. Ich hab einfach genug fucking Naturmaterialien gesammeln, Brücken gebaut und Schiffchen auf dem Hachinger Bach fahren lassen. Ne Runde mit dem Fahrrad oder Laufrad ist gefährlich weil alles vereist ist und überhaupt ist das alles gerade ziemlich viel mimimi von mi mi mir. Aber muss auch mal sein, oder?
+Seit dem Frühjahr ziehen wir unsere Runden durch Parks und Wälder in München. Aber jetzt – so nach hinten raus in diesem völlig wahnsinnigen 2020, geht mir die Luft aus. Ich hab einfach genug fucking Naturmaterialien gesammelt, Brücken gebaut und Schiffchen auf dem Hachinger Bach fahren lassen. Ne Runde mit dem Fahrrad oder Laufrad ist gefährlich weil alles vereist ist und überhaupt ist das alles gerade ziemlich viel mimimi von mi mi mir. Aber muss auch mal sein, oder?
 
 Ich geh jetzt Vanillekipferl backen und guck mal, wie meine Schokospieße aussehen. Wenn ich nicht auf den Weihnachtsmarkt komme, dann kommt der scheiß Weihnachtsmarkt eben zu mir! Mahlzeit. 
 
