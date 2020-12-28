@@ -1,5 +1,5 @@
 ---
-title:  "{::nomarkdown}Das erste Weihnachten und Silvester zu fünft – Tschüss 2020{:/}"
+title:  "{::nomarkdown}Christkind, Weihnachten, Corona - So war's 2020{:/}"
 date:   2020-12-28 10:00:00 +0200
 header:
   teaser: ../../../../../images/weihnachtsalex_teaser.png
