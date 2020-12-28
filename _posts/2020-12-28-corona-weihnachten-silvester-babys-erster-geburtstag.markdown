@@ -1,15 +1,15 @@
 ---
-title:  "{::nomarkdown}Christkind, Weihnachten, Corona - So war's 2020{:/}"
+title:  "{::nomarkdown}Christkind und Corona - So war Weihnachten 2020{:/}"
 date:   2020-12-28 10:00:00 +0200
 header:
-  teaser: ../../../../../images/weihnachtsalex_teaser.png
+  teaser: ../../../../../images/babyweihnachtsbaum_teaser.png
 tags: ["Baby", "Corona", "Familienleben", "Kleinkind", "Weihnachten"]
 ---
 
 **Weihnachten ist over. Das ging dieses Jahr irgendwie besonders fix. Wie eigentlich alles 2020. Ein Jahr im Zeitraffer. Und wie alle anderen auch, bin ich dabei, Bilanz zu ziehen. Und wir zu überlegen, was für einen Kuchen ich für Alex‘ ersten Geburtstag ich eigentlich machen soll.**
 
 <figure>
-  <img src="../../../../../images/weihnachtsalex.png" alt="">
+  <img src="../../../../../images/babyweihnachtsbaum.png" alt="">
   <figcaption>Unser Baby feierte dieses Jahr sein erstes Weihnachtsfest. Falles es jemanden interessiert: Er bekam EIN Geschenk von uns. Hat aber lieber mit denen von den Mädels gespielt.</figcaption>
 </figure> 
 
