@@ -1,6 +1,6 @@
 ---
 title:  "{::nomarkdown}Hausfrau und Mutter?{:/}"
-date:   2021-01-04 10:00:00 +0200
+date:   2021-01-11 10:00:00 +0200
 header:
   teaser: ../../../../../images/schlittenziehen_teaser.png
 tags: ["Baby", "Corona", "Familienleben", "Kleinkind", "Kind & Karriere"]
