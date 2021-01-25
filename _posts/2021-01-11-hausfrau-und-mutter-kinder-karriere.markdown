@@ -6,7 +6,7 @@ header:
 tags: ["Baby", "Corona", "Familienleben", "Kleinkind", "Kind & Karriere"]
 ---
 
-**Wer bin ich? Wo will ich hin und erfüllt es mich, daheim die Care-Arbeit, sprich Kinderbetreuung, zu übernehmen? Nein. Tut es nicht. Aber warum ist das so? **
+**Wer bin ich? Wo will ich hin und erfüllt es mich, daheim die Care-Arbeit, sprich Kinderbetreuung, zu übernehmen? Nein. Tut es nicht. Aber warum ist das so?**
 
 <figure>
   <img src="../../../../../images/schlittenziehen.png" alt="">
