@@ -6,7 +6,7 @@ header:
 tags: ["Corona", "Familienleben", "Vorschulkind"]
 ---
 
-**Johanna kommt in wenigen Monaten in die Schule. Bis vor Kurzem hatten wir daran keinen Zweifel. Bis 10.ten März ist noch Einschreibung und wir haben uns noch nicht entschieden. Ist unsere 5-Jährige wirklich bereit für die Schule?**
+**Johanna kommt in wenigen Monaten in die Schule. Bis vor Kurzem hatten wir daran keinen Zweifel. Dafür überrollen sie uns jetzt. Ist unsere 5-Jährige wirklich bereit für die Schule?**
 
 <figure>
   <img src="../../../../../images/schulanmeldung.png" alt="">
