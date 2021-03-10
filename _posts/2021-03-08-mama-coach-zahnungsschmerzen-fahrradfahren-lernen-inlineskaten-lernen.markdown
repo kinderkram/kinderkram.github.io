@@ -2,14 +2,14 @@
 title:  "{::nomarkdown}Coach Mama – Was meine Kinder in den letzten Wochen gelernt haben{:/}"
 date:   2021-03-08 10:00:00 +0200
 header:
-  teaser: ../../../../../images/radfahrenlernen_teaser.png
+  teaser: ../../../../../images/fahrradfahrenlernen_teaser.png
 tags: ["Corona", "Familienleben", "Stillen"]
 ---
 
 **Fahrrad fahren, Inline skaten, Trocken werden, Eckzähne kriegen. Bei meinen Kindern geht entwicklungstechnisch gerade die Post ab. Und es macht Spaß, ihnen dabei zuzuschauen.**
 
 <figure>
-  <img src="../../../../../images/radfahrenlernen.png" alt="">
+  <img src="../../../../../images/fahrradfahrenlernen.png" alt="">
   <figcaption>Aufgestiegen und los geradelt. Wenn unser Paulinchen was will, probiert sie es so lange, bis es eben klappt.</figcaption>
 </figure> 
 
