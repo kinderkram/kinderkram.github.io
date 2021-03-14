@@ -3,7 +3,7 @@ title:  "{::nomarkdown}Die Entscheidung – Wird unser Korridorkind eingeschult?
 {:/}"
 date:   2021-03-14 10:00:00 +0200
 header:
-  teaser: ../../../../../images/fahrradfahrenlernen_teaser.png
+  teaser: ../../../../../images/unseregrosseschwester_teaser.png
 tags: ["Corona", "Familienleben", "Schulkind", "Vorschulkind"]
 ---
 
