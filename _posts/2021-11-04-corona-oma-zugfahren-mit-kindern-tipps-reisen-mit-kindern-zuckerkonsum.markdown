@@ -1,5 +1,5 @@
 ---
-title:  "{::nomarkdown}Entspannt Zugfahren mit Kindern oder: Ostern, Oma und das Fress-Koma
+title:  "{::nomarkdown}Entspannt Zugfahren mit Kindern oder: Auf zur Oster-Oma
 {:/}"
 date:   2021-04-11 10:00:00 +0200
 header:
