@@ -1,7 +1,7 @@
 ---
 title:  "{::nomarkdown}Läuft bei uns
 {:/}"
-date:   2021-04-26 10:00:00 +0200
+date:   2021-05-02 10:00:00 +0200
 header:
   teaser: ../../../../../images/mamarenntweg_teaser.png
 tags: ["Corona", "Familienleben", "Körper & Fitness", "Gesundheit", "Meilensteine"]
