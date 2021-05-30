@@ -7,7 +7,7 @@ header:
 tags: ["Familienleben", "Gesundheit", "Vorschulkind", "Trockenwerden"]
 ---
 
-**Heute gehts mal um Wäsche und Werbung. Mit Kindern ist Wäsche waschen echt Tetris spielen higher Level. Und die Mädels haben beschlossen, dass sie nachts keine Windel mehr brauchen.Deshalb nahm der Spaß am Wochenende ganz neue Dimensionen an.**
+**Heute gehts mal um Wäsche. Und Werbung! Weil mit Kindern Wäsche waschen echt Tetris spielen higher Level ist und die Mädels beschlossen haben, dass sie nachts keine Windel mehr brauchen, nahm der Spaß am Wochenende ganz neue Dimensionen an.**
 
 <figure>
   <img src="../../../../../images/pfützenschlacht.png" alt="">
