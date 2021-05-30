@@ -1,5 +1,5 @@
 ---
-title:  "{::nomarkdown}Wie ich am verlängerten Wochenende zur Waschbär-Mama wurde
+title:  "{::nomarkdown}Kuno und der Wäscheberg: Wie ich am verlängerten Wochenende zur Waschbär-Mama wurde
 {:/}"
 date:   2021-05-25 10:00:00 +0200
 header:
@@ -7,7 +7,7 @@ header:
 tags: ["Familienleben", "Gesundheit", "Vorschulkind", "Trockenwerden"]
 ---
 
-**Mit Kindern ist Wäsche waschen echt Tetris spielen higher Level. Weil die Mädels jetzt aber beschlossen haben, nachts keine Windel mehr zu brauchen, nahm der Spaß am Wochenende ganz neue Dimensionen an.**
+**Heute gehts mal um Wäsche und Werbung. Mit Kindern ist Wäsche waschen echt Tetris spielen higher Level. Und die Mädels haben beschlossen, dass sie nachts keine Windel mehr brauchen.Deshalb nahm der Spaß am Wochenende ganz neue Dimensionen an.**
 
 <figure>
   <img src="../../../../../images/pfützenschlacht.png" alt="">
