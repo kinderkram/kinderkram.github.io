@@ -10,7 +10,7 @@ tags: ["Familienleben", "Gesundheit", "Stillen", "Kind & Karriere"]
 **Hurra! Endlich ist der Sommer da. Doch statt im Freibad zu planschen, hänge ich mit Alexander im abgedunkelten Wohnzimmer auf der Couch. Er ist richtig krank.**
 
 <figure>
-  <img src="../../../../../images/fieberungeschminkt.png" alt="">
+  <img src="../../../../../images/fieber_ungeschminkt.png" alt="">
   <figcaption>So habe ich diesen Beitrag geschrieben. Patient auf dem Schoß und ungeschminkt. Heute ist nicht unser Tag.</figcaption>
 </figure> 
 
