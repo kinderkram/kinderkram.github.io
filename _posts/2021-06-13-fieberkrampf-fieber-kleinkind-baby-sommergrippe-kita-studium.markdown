@@ -3,14 +3,14 @@ title:  "{::nomarkdown}Sommer, Sonne, Fieberkrampf
 {:/}"
 date:   2021-06-13 10:00:00 +0200
 header:
-  teaser: ../../../../../images/fieber_ungeschminkt_teaser.png
+  teaser: ../../../../../images/fieberungeschminkt_teaser.png
 tags: ["Familienleben", "Gesundheit", "Stillen", "Kind & Karriere"]
 ---
 
 **Hurra! Endlich ist der Sommer da. Doch statt im Freibad zu planschen, hänge ich mit Alexander im abgedunkelten Wohnzimmer auf der Couch. Er ist richtig krank.**
 
 <figure>
-  <img src="../../../../../images/fieber_ungeschminkt.png" alt="">
+  <img src="../../../../../images/fieberungeschminkt.png" alt="">
   <figcaption>So habe ich diesen Beitrag geschrieben. Patient auf dem Schoß und ungeschminkt. Heute ist nicht unser Tag.</figcaption>
 </figure> 
 
