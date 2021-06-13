@@ -11,7 +11,7 @@ tags: ["Familienleben", "Gesundheit", "Stillen"]
 
 <figure>
   <img src="../../../../../images/eisbaer.png" alt="">
-  <figcaption>Wer auf sein eigenes, ganzes Eis besteht, ist eigentlich auch groß genug, um ohne Milch auszukommen, oder?.</figcaption>
+  <figcaption>Wer auf sein eigenes, ganzes Eis besteht, ist eigentlich auch groß genug, um ohne Milch auszukommen, oder?</figcaption>
 </figure> 
 
 Baby Alexander ist bald 17 Monate alt. Seit fast 17 Monaten stillt er. Von Anfang an, wie ein Profi. Im Krankenhaus, kurz nach seiner Geburt, fragte die erstaunte Nachtschwester, wie das denn sein kann, dass er schon Milch zieht. Hat man nämlich gesehen und gehört. Der Milcheinschuss kam bei ihm in Rekordgeschwindigkeit. Ich gehe davon aus, dass mein Körper einfach noch voll im Flow war. Unsere Pauline habe ich nämlich zwei Jahre lang gestillt und erst in der erneuten Schwangerschaft mit Alex habe ich sie zum Abstillen überredet. Genau so war es übrigens wirklich. Ich habe ihr erklärt, dass ich nicht mehr kann, weil‘s einfach unheimlich weh tut, wenn sie trinkt. Da haben die Schwangerschaftshormone wohl einen erheblichen Teil dazu beigetragen. Wäre es nicht so kacke schmerzhaft gewesen, hätte ich mir sogar Tandemstillen vorstellen können. 
