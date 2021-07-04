@@ -11,7 +11,7 @@ tags: ["Familienleben", "Reisen mit Kindern", "Gesundheit"]
 
 <figure>
   <img src="../../../../../images/poolparty.png" alt="">
-  <figcaption>Alexander hat sich viele potenzielle Kinderzimmer angeschaut am Wochenende. Für dieses hier braucht es Phantasie.</figcaption>
+  <figcaption>Okay. Nicht nur die Kinder hatten Spaß im Pool. Meine Knie sind blau von der ollen Wasserrutsche.</figcaption>
 </figure> 
 
 Unsere Urlaubswoche ist tatsächlich schon wieder rum. Unser Fazit: Schön wars! Die Kinder hatten riesigen Spaß am Strand, im Pool und im Aquapark. Beim Hüpfburgen behüpfen und Eis essen. Wir hatten alle ziemlich viel Leckeres. Pizza, Pasta und Eis bis zum Umfallen. Und in meinem Fall noch Kekse. Gott. Ich liebe italienische Kekse. Die sind von der Konsistenz her einfach perfekt. Locker, krümelig und leicht. Und ich habe jeden einzelnen Keks noch mehr genossen, als ich das eh gemacht hätte. Warum? Weil meine Zahn-OP morgen ansteht. Die Zähne der einen Kieferhälfte werden runter geschliffen. Für den Moment kommt ein Provisorium drauf. Vier Stunden Vollnarkose. 7.30 Uhr muss ich in der Klinik sein. Es ist der Erste von insgesamt vier Terminen. Die folgen jetzt im Zweiwochentakt und ich hab ganz schön Schiss. 
