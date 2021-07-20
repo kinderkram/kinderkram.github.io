@@ -4,7 +4,7 @@ title:  "{::nomarkdown}Wohntraum mit viel Freiraum – Maklerdeutsch und die nä
 date:   2021-07-18 10:00:00 +0200
 header:
   teaser: ../../../../../images/kleinerkrummerbaum_teaser.png
-tags: ["Familienleben", "Gesundheit", "Corona", "Stillen"]
+tags: ["Familienleben", "Gesundheit", "Corona", "Stillen", "Wohnen mit Kindern"]
 ---
 
 **Ich mache es kurz. Unser Wochenende war proppenvoll. Wir haben uns in ein Haus schockverliebt, feiern morgen Geburtstag und ich werde ein Scheiß-Gast sein, weil ich meine nächste Vollnarkose verknusern muss.**
