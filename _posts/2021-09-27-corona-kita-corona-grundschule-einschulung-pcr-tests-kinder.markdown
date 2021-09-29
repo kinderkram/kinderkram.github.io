@@ -7,14 +7,12 @@ header:
 tags: ["Familienleben", "Corona", "Kindergarten", "Schulkind"]
 ---
 
-**Meine Erstklässlerin und ich haben gerade ordentlich was zu bewältigen. Mein Zahn-Projekt steht kurz vor dem Abschluss und Johanna findet Schule, Hort und Hausaufgaben immer noch doof.**
+**Corona everywhere! Die Schule ging noch keine Woche, als wir schon die ersten Corona-Fälle in der Klasse hatten. Und jetzt geht’s in der Kita direkt weiter. Dabei war die echt lange frei von dem Scheiß Virus.**
 
 <figure>
   <img src="../../../../../images/johannaspinnweben.png" alt="">
   <figcaption>Johanna kümmert das Heizproblem wenig. Die entfernt lieber Spinnweben im neuen Häuschen.</figcaption>
 </figure>  
-
-Corona everywhere! Die Schule ging noch keine Woche, als wir schon die ersten Corona-Fälle in der Klasse hatten. Und jetzt geht’s in der Kita direkt weiter. Dabei war die echt lange frei von dem Scheiß Virus.
 
 Montag, Mittwoch und Freitag macht Johanna einen Coronatest in der Schule. Letzte Woche Montag kam der Anruf ihrer Klassenlehrerin. Ja, es gäbe da einen Coronafall in der Klasse. Betroffen ist ein Kind, dass in Johannas Nähe sitzt. Wir sollen am nächsten Tag bitte einfach auf den Schulhof kommen. Dann erfahren wir kurz vor Unterrichtsbeginn, ob wir bleiben dürfen oder nach Hause in Quarantäne müssen. 
 
