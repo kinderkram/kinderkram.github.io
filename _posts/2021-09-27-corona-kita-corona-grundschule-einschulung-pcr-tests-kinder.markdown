@@ -3,7 +3,7 @@ title:  "{::nomarkdown}Corona in der Kita, Corona in der Schule
 {:/}"
 date:   2021-09-27 10:00:00 +0200
 header:
-  teaser: ../../../../../images/johannaspiennweben_teaser.png
+  teaser: ../../../../../images/johannaspinnweben_teaser.png
 tags: ["Familienleben", "Corona", "Kindergarten", "Schulkind"]
 ---
 
