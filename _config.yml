@@ -93,7 +93,7 @@ analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-93519544-1"
-    anonymize_ip         : # true, false (default)
+    anonymize_ip         : true #, false (default)
 
 
 # Site Author
@@ -115,13 +115,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/"
+      url: "https://facebook.com/katja.rietdorf.5"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/katjaskinderkram"
 
 # Site Footer
 footer:
@@ -131,7 +131,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "katja.rietdorf.5"
+      url: "https://facebook.com/katja.rietdorf.5"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
@@ -143,7 +143,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "katjaskinderkram"
+      url: "https://instagram.com/katjaskinderkram"
 
 
 # Reading Files
