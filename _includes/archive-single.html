@@ -10,23 +10,59 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: 'list' }}__item">
+<!-- Large devices -->
+<div class="only-lg {{ include.type | default: 'list' }}__item">
   <article style="vertical-align: top;" class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    {% if teaser %}
-      <div class="archive__item-teaser">
+      <div style="float: left;">      
         <a href="{{ post.url | relative_url }}" rel="permalink">
-        	<img src="{{ teaser | relative_url }}" alt="">
+        	<img src=
+                     {% if teaser contains "://" %}
+                     "{{ teaser }}"
+                     {% else %}
+                     "{{ teaser | relative_url }}"
+                     {% endif %}
+                     alt="{{ teaser }}" style="border-radius:50%; margin-right: 15px;" width="160" height="160">
         </a>
       </div>
-    {% endif %}
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
-    </h2>
+      <div style="vertical-align: top; margin-left: 175px; width: 500px;">
+    	<h2 class="archive__item-title no_toc" itemprop="headline">
+      		{% if post.link %}
+        	<a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      		{% else %}
+        	<a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
+      		{% endif %}
+    	</h2>      
     {% include page__meta.html type=include.type %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html }}</p>{% endif %}
+  	</div>
+  	<div style="clear: both;"></div>
+    <p></p>
   </article>
+</div>
+
+<!-- Medium devices -->
+<div class="only-md {{ include.type | default: "list" }}__item">
+    <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+        <div class="archive__item-teaser" style="text-align: center; margin-top: 50px;">
+            <a href="{{ post.url | relative_url }}" rel="permalink">
+                <img src=
+                     {% if teaser contains "://" %}
+                     "{{ teaser }}"
+                     {% else %}
+                     "{{ teaser | relative_url }}"
+                     {% endif %}
+                     alt="{{ teaser }}"
+                     style="border-radius:50%; margin-right: 15px;" width="160" height="160">
+            </a>
+        </div>
+        <h2 class="archive__item-title no_toc" itemprop="headline">
+            {% if post.link %}
+            <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+            {% else %}
+            <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
+            {% endif %}
+        </h2>
+		{% include page__meta.html type=include.type %}
+		{% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html }}</p>{% endif %}
+    </article>
 </div>
