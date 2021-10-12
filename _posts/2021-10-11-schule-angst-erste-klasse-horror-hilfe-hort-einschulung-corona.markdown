@@ -7,7 +7,7 @@ header:
 tags: ["Familienleben", "Schulkind", "Kind & Karriere"]
 ---
 
-**Angst vor der Schule. Unsere Erstklässlerin hat der der neue Lebensabschnitt völlig aus der Bahn geworfen. Was wir jetzt tun, um sie wieder zu einem fröhlichen Menschen zu machen.**
+**Angst vor der Schule. Unsere Erstklässlerin hat der neue Lebensabschnitt völlig aus der Bahn geworfen. Was wir jetzt tun, um sie wieder zu einem fröhlichen Menschen zu machen.**
 
 <figure>
   <img src="../../../../../images/afterschool.png" alt="">
