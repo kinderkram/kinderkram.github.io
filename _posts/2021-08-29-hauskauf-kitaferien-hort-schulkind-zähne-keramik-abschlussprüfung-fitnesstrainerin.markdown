@@ -4,7 +4,7 @@ title:  "{::nomarkdown}Zahn-Update, Prüfungsstress und Hauskauf
 date:   2021-08-29 10:00:00 +0200
 header:
   teaser: ../../../../../images/zaehne_teaser.png
-tags: ["Familienleben", "Gesundheit", "Stillen", "Vorschule", "Kindergarten"]
+tags: ["Familienleben", "Gesundheit", "Stillen", "Vorschule", "Kindergarten", "Altbausanierung"]
 ---
 
 **Wir sind Eltern in den 30ern. Unsere Kinder sind noch klein. Die Älteste kommt jetzt zur Schule. Warum diese Zeit als Rushhour des Lebens bezeichnet wird, weiß ich spätestens jetzt. Langweilig wird uns gerade nämlich garantiert nicht!**

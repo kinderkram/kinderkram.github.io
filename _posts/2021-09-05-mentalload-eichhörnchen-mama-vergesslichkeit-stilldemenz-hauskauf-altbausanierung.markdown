@@ -4,7 +4,7 @@ title:  "{::nomarkdown}Eichhörnchen-Mama: Warum bin ich so vergesslich?
 date:   2021-09-05 10:00:00 +0200
 header:
   teaser: ../../../../../images/baerontour_teaser.png
-tags: ["Familienleben", "Gesundheit", "Stillen", "Vorschule", "Kindergarten", "Wohnen mit Kindern"]
+tags: ["Familienleben", "Gesundheit", "Stillen", "Vorschule", "Kindergarten", "Wohnen mit Kindern", "Altbausanierung"]
 ---
 
 **Es wird immer schlimmer. Ich vergesse Dinge. Termine. Lasse mein Handy irgendwo liegen, verbummle Schlüssel oder andere wichtige Sachen. Was ist los mit mir?**
