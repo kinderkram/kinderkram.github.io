@@ -2,13 +2,13 @@
 title:  "{::nomarkdown}Kinderbetreuung: Kita-Öffnungszeiten in der Stadt vs. auf dem Land
 
 {:/}"
-date:   2021-11-30 10:00:00 +0200
+date:   2021-12-06 10:00:00 +0200
 header:
   teaser: ../../../../../images/nikolausstiefelputzen_teaser.png
 tags: ["Familienleben", "Schulkind", "Umzug"]
 ---
 
-**Nur noch wenige Wochen, dann sind wir raus, aus der großen Stadt. Zum Glück habe ich keine Zeit zum Traurigsein. Denn die Kids nimmt der bevorstehende Umzug emotional so stark mit, dass ich kaum zum Nachdenken komme. **
+**Nur noch wenige Wochen, dann sind wir raus, aus der großen Stadt. Zum Glück habe ich keine Zeit zum Traurigsein. Denn die Kids nimmt der bevorstehende Umzug emotional so stark mit, dass ich kaum zum Nachdenken komme.**
 
 <figure>
   <img src="../../../../../images/nikolausstiefelputzen_teaser.png" alt="">
