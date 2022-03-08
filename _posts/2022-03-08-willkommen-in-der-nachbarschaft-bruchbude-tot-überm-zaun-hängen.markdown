@@ -1,27 +1,34 @@
 ---
-title:  "{::nomarkdown}Krieg und Kinderwunsch
+title:  "{::nomarkdown}„Hier werdet ihr nicht glücklich“ – Willkommen in der Nachbarschaft!
 
 {:/}"
-date:   2022-03-02 10:00:00 +0200
+date:   2022-03-08 10:00:00 +0200
 header:
-  teaser: ../../../../../images/kindersalat_teaser.png
-tags: ["Familienleben", "Krieg", "Kinderwunsch"]
+  teaser: ../../../../../images/sandschaufeln_teaser.png
+tags: ["Familienleben", "Umziehen mit Kindern", "Altbausanierung"]
 ---
 
-**Das passt nicht zusammen, oder? In meinem Freundeskreis wird das Thema gerade heiß diskutiert. Denn da sind wieder viele Babys auf dem Weg. Manche (werdende) Mütter werden jetzt von Sorgen zerfressen. Ist es unverantwortlich, heute Kinder zu bekommen?**
+**In unserem neuen Wohnort schlagen uns überraschend optimistische Vibes entgegen. Nicht. Darum kann ich nicht mehr hören, dass hier jemand NICHT sein möchte.**
 
 <figure>
-  <img src="../../../../../images/kindersalat.png" alt="">
-  <figcaption>Wenn ich mir meine Kids anschaue, läuft mir das Herz über vor lauter Liebe. Und Sorge um ihre Zukunft.</figcaption>
+  <img src="../../../../../images/sandschaufeln.png" alt="">
+  <figcaption>Kinderarbeit ist verboten aber wenn die Arbeit darin besteht, eine Tonne Sand in den Keller zu schaufeln, sind unsere Kids am Start.</figcaption>
 </figure>    
 
-Heute wird’s mal politisch. So semi jedenfalls. Der Krieg in der Ukraine erschüttert die ganze Welt. Klar gibt es immer irgendwelche Unruhen und „kriegerischen Handlungen“ in irgendwelchen Ecken der Erde aber das tangiert uns Deutsche in der Regel wenig. Weit weg, geht uns nix an. Wir machen uns lieber Gedanken um fiese Chefs, zu hohe Mieten und vielleicht noch ein bisschen Corona. Obwohl das Virus nach wie vor wütet, scheint das seinen Schrecken verloren zu haben. Vielleicht liegt es einfach daran, dass wir müde sind. Immerhin leben wir seit über zwei Jahren mit dem Arschloch von Noppenball. So sieht das Teil jedenfalls aus. 
+Wir sind noch lange nicht eingezogen aber die Zeit drängt. Wir müssen endlich rüber nach Herbertingen ins Haus. Die tägliche Fahrerei, um die Kinder in Schule und Kita zu bringen, ist nämlich schon ein bisschen nervig. Viel wichtiger aber ist, dass wir natürlich auch viel besser ankommen können bzw. überhaupt erstmal ankommen können, wenn wir denn auch in unserem künftigen Heimatort wohnen. Nicht dass es zu eng wäre, hier in der Ein-Zimmer-Wohnung meiner Schwiegermutter aber so langsam… Ende Mai kommt ihr Mann zurück und der findet Kinder im Haus doof. Das ist jetzt mal ganz salopp formuliert für eine nicht tragbare Situation für die Kids. ERGO: Geben wir Vollgas am und im Haus.
 
-Aber so ne weltweite Pandemie reicht ja nicht aus, um die Menschen in Schrecken zu versetzen. Deshalb legen wir noch einen Krieg obendrauf. Und dieses Mal findet er nicht am Ende der Welt statt, sondern in der Nachbarschaft. Zum Greifen nah quasi. Unsichere Zeiten sind das. In was für eine Welt werden unsere Kinder da gesetzt? In unserem Fall ist es für derlei Überlegungen ein bisschen spät, weil die Drei nun mal da sind. Das habe ich noch keinen Tag bereut aber ich mache mir schon Sorgen um unsere Mäuse. Johanna und Pauline haben schon nachgefragt. Denen haben wir versucht, kindgerecht zu erklären, was da gerade abgeht. Die sind ja lernfähig wie sonst noch was und flexibel sowieso. Johanna geht viel selbstverständlicher mit ihrer Mund-Nasen-Bedeckung um, als das die meisten Erwachsenen tun aber das nur am Rande. Als wir in der Kinderplanung waren, konnte man noch überallhin reisen, auf Konzerte gehen und musste nicht befürchten, dass der dritte Weltkrieg ausbricht. Was für eine Scheiße ist das jetzt also?
+Ich habe jetzt den Fußboden im Dach von Schrot und Schlacken befreit. Ein staubiger, anstrengender Job, der jetzt endlich geschafft ist. Ich habe fast 100 Schwerlastmüllsäcke mit dem ganzen Scheiß voll geschaufelt. Dutzende Mäuseskelette ausgebuddelt und anhand vergilbter Tageszeitungen herausgefunden, wann genau das Dach eigentlich ausgebaut wurde. 1971. Da war die Schrift in der Tageszeitung noch altdeutsch. Aber das nur am Rande. Jetzt können wir ihn schön und funktional wieder aufbauen. Mit ordentlichen Dielen, Trittschall und Dämmung. Brauchen wir nur noch Holz. Eine Menge Holz!
 
-Jemand aus meiner Familie ist frisch schwanger (weshalb ich nicht verraten darf, wer es ist) und fragt sich gerade, ob das wirklich eine gute Idee war. Fragen sich ja die meisten werdenden Eltern an irgendeinem Punkt ihrer Schwangerschaft. Aber jetzt sind die Zweifel noch größer. Tatsächlich habe ich eine Bekannte, die sogar sagt, dass sie unter diesen Umständen abtreiben würde, weil sie nicht verantworten kann, einen unschuldigen Menschen in solch unsichere Zeiten zu setzen. Und das sagt sie nicht einfach so hypothetisch. Diese Entscheidung steht tatsächlich im Raum. Sie arbeitet mit ihrem Freund seit acht Monaten am Nachwuchs. Schon Corona hat sie zweifeln lassen und dafür gesorgt, dass der Kinderwunsch erst ein Jahr später, als ursprünglich geplant, in Angriff genommen wird. Vor gut zwei Wochen hat sie noch gehofft. Jetzt traut sie sich, trotz überfälliger Periode, nicht zu testen. Weil sie Angst vor den Konsequenzen hat. Das finde ich krass. Extrem drastisch. Aber sie steht mit dieser Meinung nicht allein da. Ich habe mit einigen meiner Mädels gesprochen und da geht der Tenor eindeutig in die Richtung: „Ich hätte schon noch gern ein weiteres Kind bekommen aber jetzt? Ich denke, dass die Familienplanung vorzeitig beendet wird. Ich bin dankbar für das, was ich habe und versuche die Zeit mit meinen Kindern noch intensiver zu genießen.“
+Schönes Sinnbild übrigens. Unsere To-Do-Liste umfasst auch „eine Menge Holz“. Und obwohl wir schon so viel geschafft haben, überrollt uns trotzdem regelmäßig Panik. Verzweiflung und Mutlosigkeit – angesichts des Mammutprojektes vor uns. Passend zu diesem Gefühl kommen unsere neuen Nachbarn. Als wir noch am Entrümpeln waren, kam der alte Herr von gegenüber zu uns in die Einfahrt. Schaute griesgrämig, trat von einem Bein aufs andere und als ich ihn dann freundlich fragte, ob ich ihm helfen könnte, platzte aus ihm heraus: „Und die Kiste habt ihr jetzt gekauft, ja? Na viel Spaß damit!“ Mit diesen Worten verzog er sich zurück zum Rauchen auf seinen Balkon. Von dort aus kann er uns nämlich noch besser beobachten. Falls er noch einmal das Bedürfnis verspürt, uns eins rein zu drücken, kommt er sicher wieder. 
 
-Ich weiß nicht so richtig, wie ich zu dieser Einstellung stehe? Ich bin froh und dankbar, dass wir drei gesunde, kleine Narkpraserts dahaben und hoffe, dass sie es auch bleiben. Wir können unsere Kinder nicht vor allem Leid beschützen aber wir können sie so gut wie möglich, durch diese Zeiten begleiten. In der Hoffnung, dass irgendwann Weltfrieden herrscht, alle gesund bleiben und genug zum Leben haben. Genug für ein glückliches Leben. Mir persönlich fällt nichts ein, was einem mehr Hoffnung gibt, als Kinder. Denn sie sind zeigen uns immer wieder, wie Leben eigentlich funktioniert. Sie haben neue Idee, eine erfrischende Sicht auf Gegebenheiten und sie sind absolut rein. Es ist unsere Aufgabe dafür zu sorgen, dass sie es bleiben können. Doch wie soll das gehen bei all dem Irrsinn gerade? Wir werden es herausfinden. Müssen.
+Von Handwerkern haben wir diese und ähnliche Aussagen jetzt auch schon zur Genüge gehört. Der erste Sanitär-Mensch meinte schon beim Betreten unserer Casa-Rohdiamant ganz empathisch: „Was ne Bruchbude! Einfach abreißen!“ Ähm ja. Aber nein. Das steht nicht zur Debatte und ist totaler Quatsch. Die Hütte steht da seit 170 Jahren, ist trocken, die Balken, Träger, Wände sind alle prima erhalten. Es gibt keinen Grund, dieses Haus abzureißen, nur weil jemand mit zu wenig Phantasie hier rein spaziert! Aber echt! Wir haben uns nicht wegen dieser Aussage von diesem Heizungsbauer getrennt… 
+
+Es geht aber fröhlich weiter. Beim Kinderturnen wurde ich mehrfach gefragt, warum ich denn aus München nach Herbertingen gezogen bin. WARUM? Warum macht man sowas? Aber genau so. Und der Mensch vom Tiefbauunternehmen, der ein großes Loch in die Stra0e gebuddelt hat, damit wir unseren Gasanschluss bekommen, sagte gestern zu mir: „Herbertingen. Ich würde ja im Leben nicht nach Herbertingen ziehen. Das ist so trostlos hier. Schrecklicher Ort.“ Sein Kollege daraufhin: „Aber du bist doch gebürtig aus Herbertingen!“ Tiefbauer: „Eben!“ 
+
+Ich lächle all diese Aussagen weg. Jedes Mal. Aber ich frage mich wirklich, WIRKLICH, warum man sowas macht. Aus welchem Grund ist es jemandem denn ein inneres Anliegen, mitzuteilen, wo er NICHT wohnen wollen würde. Zumal wir ja hier sind! Die Wahrscheinlichkeit, dass wir sagen: „Oh, echt? Ja dann verkaufen wir die Hütte aber schnell wieder“, ist gleich NULL. Deshalb: Ruhe jetzt! Kommt uns alle mal besuchen. Wir machen aus der Bruchbude was richtig Schönes. Vielleicht nicht heute. Aber irgendwann. Und dann versteht ihr uns vielleicht.
+
+
+
 
  
 
