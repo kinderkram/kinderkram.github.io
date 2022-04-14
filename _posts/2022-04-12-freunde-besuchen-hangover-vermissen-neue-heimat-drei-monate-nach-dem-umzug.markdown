@@ -2,7 +2,7 @@
 title:  "{::nomarkdown}Drei Monate nach dem Umzug: Freunde-Weh statt Heimweh
 
 {:/}"
-date:   2022-04-14 10:00:00 +0200
+date:   2022-04-12 10:00:00 +0200
 header:
   teaser: ../../../../../images/tapetentiger_teaser.png
 tags: ["Familienleben", "Altbausanierung", "Kindergeburtstag", "Umzug mit Kindern"]
