@@ -4,14 +4,14 @@ title:  "{::nomarkdown}„Hier werdet ihr nicht glücklich“ – Willkommen in 
 {:/}"
 date:   2022-03-08 10:00:00 +0200
 header:
-  teaser: ../../../../../images/sandlieferung_teaser.png
+  teaser: ../../../../../images/sandschaufeln1_teaser.png
 tags: ["Familienleben", "Krieg", "Kinderwunsch"]
 ---
 
-**In unserem neuen Wohnort schlagen und überraschen optimistische Vibes entgegen. Nicht. Darum kann ich nicht mehr hören, dass hier jemand NICHT sein möchte.**
+**In unserem neuen Wohnort schlagen uns überrasched optimistische Vibes entgegen. Nicht. Darum kann ich nicht mehr hören, dass hier jemand NICHT sein möchte.**
 
 <figure>
-  <img src="../../../../../images/sandlieferung.png" alt="">
+  <img src="../../../../../images/sandschaufeln1.png" alt="">
   <figcaption>Kinderarbeit ist verboten aber wenn die Arbeit darin besteht, eine Tonne Sand in den Keller zu schaufeln, sind unsere Kids am Start.</figcaption>
 </figure>    
 
