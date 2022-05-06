@@ -8,7 +8,7 @@ header:
 tags: ["Familienleben", "Altbausanierung", "Kindergeburtstag", "Umzug mit Kindern"]
 ---
 
-**Würde ich gern sagen. Mache ich aber nicht. Stattdessen rackere ich mich ab im Muddi-Hamsterrad. Immerhin der fünfte Geburtstag unserer Mittleren ist überstanden. Für den Indoor-Spielplatz gab es gnädigerweise einen Daumen nach oben. **
+**Würde ich gern sagen. Mache ich aber nicht. Stattdessen rackere ich mich ab im Muddi-Hamsterrad. Immerhin der fünfte Geburtstag unserer Mittleren ist überstanden. Für den Indoor-Spielplatz gab es gnädigerweise einen Daumen nach oben.**
 
 <figure>
   <img src="../../../../../images/paulinebuendel.png" alt="">
