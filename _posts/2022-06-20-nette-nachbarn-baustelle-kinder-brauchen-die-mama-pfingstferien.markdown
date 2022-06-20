@@ -4,14 +4,14 @@ title:  "{::nomarkdown}Sie haben nicht zufällig einen Gabelstapler? - Nette Nac
 {:/}"
 date:   2022-06-20 10:00:00 +0200
 header:
-  teaser: ../../../../../images/rollercrew_teaser.png
+  teaser: ../../../../../images/schwimmer_IN_teaser.png
 tags: ["Altbausanierung", "Familienleben", "Schulkind"]
 ---
 
 **Nachdem ich mich über den unfreundlichen Empfang am neuen Ort beschwert hatte, MUSS ich jetzt dringend relativieren. Tatsächlich sind die Nachbarn rund um unser Haus gerade ein echter Lichtblick. Und sie haben sogar Bagger!**
 
 <figure>
-  <img src="../../../../../images/rollercrew.png" alt="">
+  <img src="../../../../../images/schwimmer_IN.png" alt="">
   <figcaption>Johanna hat jetzt nicht nur das Seepferdchen, sondern macht direkt die Rettungsschwimmerin für ihren kleinen Bruder.</figcaption>
 </figure>     
 
