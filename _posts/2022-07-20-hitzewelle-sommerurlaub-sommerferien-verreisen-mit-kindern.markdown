@@ -4,15 +4,15 @@ title:  "{::nomarkdown}Heiße Mama: So überstehen wir die Hitzewelle mit dem So
 {:/}"
 date:   2022-07-20 10:00:00 +0200
 header:
-  teaser: ../../../../../images/schirmmaedels_teaser.png
+  teaser: ../../../../../images/baechle_teaser.png
 tags: ["Familienleben", "Schulkind", "Finanzen", "Urlaub"]
 ---
 
 **Ich mach’s kurz: Gar nicht. Beide Mädels sind krank und leiden extrem unter den Temperaturen in der winzigen Dach-Wohnung meiner Schwiegermutter. Weil in dem alten Holzhaus nix gedämmt ist, wird’s richtig heiß. Bleibt also nur noch abhauen. Und das machen wir dann auch nächste Woche.**
 
 <figure>
-  <img src="../../../../../images/schirmmaedels.png" alt="">
-  <figcaption>Bild ist im Anmarsch.</figcaption>
+  <img src="../../../../../images/baechle.png" alt="">
+  <figcaption>Pauline kühlt sich die Füße in der Bad Saulgauer Innenstadt. Sie hat das Kranksein diese Woche schon ziemlich genossen aber sie hatte auch das Glück, dass ich ein paar Tage frei hatte.</figcaption>
 </figure>      
 
 
