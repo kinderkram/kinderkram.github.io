@@ -2,7 +2,7 @@
 title:  "{::nomarkdown}Familienurlaub in Italien: Zwischen bella Figura und Hängebauchschwein
 
 {:/}"
-date:   2022-08-80 10:00:00 +0200
+date:   2022-08-08 10:00:00 +0200
 header:
   teaser: ../../../../../images/bikinibeach_teaser.png
 tags: ["Familienleben", "Schulkind", "Finanzen", "Urlaub", "Fitness"]
