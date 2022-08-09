@@ -12,7 +12,7 @@ tags: ["Familienleben", "Schulkind", "Finanzen", "Urlaub", "Fitness"]
 
 <figure>
   <img src="../../../../../images/bikinibeach.png" alt="">
-  <figcaption>Haha! Der Tag, an dem ich bauchfrei ging (und an dem Johanna ihre Schwester fertig gemacht hat).</figcaption>
+  <figcaption>Ha! Der Tag, an dem ich bauchfrei ging (und an dem Johanna ihre Schwester fertig gemacht hat).</figcaption>
 </figure>      
 
 
