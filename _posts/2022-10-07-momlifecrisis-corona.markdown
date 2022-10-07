@@ -1,5 +1,5 @@
 ---
-title:  "{::nomarkdown}Meine Momlife-Crisis & das Kack-Corona 
+title:  "{::nomarkdown}Momlife-Crisis & Kack-Corona 
 
 {:/}"
 date:   2022-10-07 10:00:00 +0200
