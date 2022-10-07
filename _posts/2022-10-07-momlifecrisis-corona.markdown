@@ -11,7 +11,7 @@ tags: ["Familienleben", "Partnerschaft"]
 **Was braucht Mom, wenn sie eh schon aus dem letzten Loch pfeift? Genau. Corona! Und deshalb schleiche ich schon die ganze Woche in Jogginghose rum. Es ist offiziell. Ich habe die Kontrolle über mein Leben verloren.**
 
 <figure>
-  <img src="../../../../../images/corona_regen.png" alt="">
+  <img src="../../../../../images/corona.png" alt="">
   <figcaption>Früher hab ich mich über den zweiten Strich auf dem Test gefreut. Aber wenns um Corona statt Babys geht, kann ich gern darauf verzichten.</figcaption>
 </figure>      
 
