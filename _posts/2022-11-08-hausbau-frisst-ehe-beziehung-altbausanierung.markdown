@@ -8,14 +8,13 @@ header:
 tags: ["Familienleben", "Partnerschaft"]
 ---
 
-**Was braucht Mom, wenn sie eh schon aus dem letzten Loch pfeift? Genau. Corona! Und deshalb schleiche ich schon die ganze Woche in Jogginghose rum. Es ist offiziell. Ich habe die Kontrolle über mein Leben verloren.**
+**Ich habe keine Lust mehr zu jammern oder mich für fehlende Blog-Beiträge zu entschuldigen. Ihr versteht mich auch so. Dieses Mal geht’s um das Verhältnis von Beziehungen und Altbausanierungen.**
 
 <figure>
   <img src="../../../../../images/loch.png" alt="">
   <figcaption>Das Innenleben unseres Hauses ist ein klaffendes Loch. Wie mein Herz zuweilen.</figcaption>
 </figure>      
 
-Ich habe keine Lust mehr zu jammern oder mich für fehlende Blog-Beiträge zu entschuldigen. Ihr versteht mich auch so. Dieses Mal geht’s um das Verhältnis von Beziehungen und Altbausanierungen. 
 Wir kommunizieren hauptsächlich über WhatsApp. Was steht im Kindergarten an? Wer arbeitet wie lange und wer kann was auf der Baustelle zu welchen Zeiten erledigen oder organisieren. Überhaupt ist Organisation das Stichwort. Wir planen, wir sortieren, wir schieben und ordnen. Termine, Kinder, Baumaterialien. Was in all dem keinen Platz mehr auf der Liste der zu organisierenden Dinge hat, ist das WIR. 
 
 <h3>Viel Familie auf ganz wenig Raum</h3>
