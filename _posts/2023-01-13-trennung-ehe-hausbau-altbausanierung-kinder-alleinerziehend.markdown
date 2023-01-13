@@ -8,15 +8,14 @@ header:
 tags: ["Familienleben", "Partnerschaft", "Altbausanierung"]
 ---
 
-**Das sagte eine Arbeitskollegin wörtlich zu mir. Sie hatte Erfahrung. Und die sammle ich jetzt auch. Klingt furchtbar und was soll ich sagen? Das ist es auch. 
-Ich habe lange überlegt OB und wenn ja WIE ich das Thema hier behandeln soll aber wenn ich es NICHT behandle, kann ich den Blog hier auch einstellen. Also kommt hier eine Zusammenfassung des letzten Monats.**
+**Das sagte eine Arbeitskollegin wörtlich zu mir. Sie hatte Erfahrung. Und die sammle ich jetzt auch. Klingt furchtbar und was soll ich sagen? Das ist es auch.**
 
 <figure>
   <img src="../../../../../images/trio_taschengeld.png" alt="">
   <figcaption>Immerhin passt zwischen unsere Kids kein Blatt. Hier schmeißen sie ihr Taschengeld zusammen, um sich Süßigkeiten im Dorfladen zu kaufen..</figcaption>
 </figure>      
 
-Unsere Beziehung war nicht immer super harmonisch. Kein Problem. Das gehört dazu. Wer mein Geschreibsel hier aber seit mehreren Jahren verfolgt, hat vielleicht eine Ahnung davon, was bei uns so alles im Argen liegt. Unsere Unzufriedenheit (miteinander) haben wir immer auf den Platzmangel geschoben. WENN wir mehr Rückzugsmöglichkeiten hätten, wäre es sicher VIEL harmonischer. Dann hätte Simon auch Lust auf Familie, Unternehmungen, mit an zu packen… Das höre ich seit Jahren. Und obwohl ich Zweifel daran hatte, dass mehr Platz die Lösung für alles wäre, war es mir den Versuch wert. 
+Ich habe lange überlegt OB und wenn ja WIE ich das Thema hier behandeln soll aber wenn ich es NICHT behandle, kann ich den Blog hier auch einstellen. Also kommt hier eine Zusammenfassung des letzten Monats. Unsere Beziehung war nicht immer super harmonisch. Kein Problem. Das gehört dazu. Wer mein Geschreibsel hier aber seit mehreren Jahren verfolgt, hat vielleicht eine Ahnung davon, was bei uns so alles im Argen liegt. Unsere Unzufriedenheit (miteinander) haben wir immer auf den Platzmangel geschoben. WENN wir mehr Rückzugsmöglichkeiten hätten, wäre es sicher VIEL harmonischer. Dann hätte Simon auch Lust auf Familie, Unternehmungen, mit an zu packen… Das höre ich seit Jahren. Und obwohl ich Zweifel daran hatte, dass mehr Platz die Lösung für alles wäre, war es mir den Versuch wert. 
 
 Doch wir kamen vom Regen in die Traufe. Statt der kleinen 2,5 Zimmer Wohnung in München leben wir nun seit über einem Jahr in einem Zimmer über meiner Schwiegermutter. EIN Zimmer, Küche, Bad. Wir pendeln täglich in Büros, auf die Baustelle, den Kindergarten und der Schule hin und her. Um mehr Geld zu bekommen und die Sanierungsarbeiten zu beschleunigen arbeite ich mittlerweile 32 Wochenstunden in meinem Job. PLUS zwei Kinder, die Mittagspause in ihrem Kindergarten haben und zum Essen „nach Hause“ kommen, PLUS Haushalt, den ich so ziemlich allein rocke PLUS ein Schulkind PLUS all die sozialen Aktivitäten und Verpflichtungen. Das ist MEIN Job seit nunmehr einem Jahr. Dazu bin ich hin und wieder auf der Baustelle, um Wände einzureißen, Böden raus zu rupfen oder Decken abzutransportieren. 
 
