@@ -9,8 +9,7 @@ tags: ["Familienleben", "Partnerschaft", "Altbausanierung"]
 ---
 
 **Das sagte eine Arbeitskollegin wörtlich zu mir. Sie hatte Erfahrung. Und die sammle ich jetzt auch. Klingt furchtbar und was soll ich sagen? Das ist es auch. 
-Ich habe lange überlegt OB und wenn ja WIE ich das Thema hier behandeln soll aber wenn ich es NICHT behandle, kann ich den Blog hier auch einstellen. Also kommt hier eine Zusammenfassung des letzten Monats.-+
-**
+Ich habe lange überlegt OB und wenn ja WIE ich das Thema hier behandeln soll aber wenn ich es NICHT behandle, kann ich den Blog hier auch einstellen. Also kommt hier eine Zusammenfassung des letzten Monats.**
 
 <figure>
   <img src="../../../../../images/trio_taschengeld.png" alt="">
