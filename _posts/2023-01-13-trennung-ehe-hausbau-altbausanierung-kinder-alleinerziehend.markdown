@@ -4,7 +4,7 @@ title:  "{::nomarkdown}„Als Alleinerziehende bist du der Pickel für jeden Ver
 {:/}"
 date:   2023-01-13 10:00:00 +0200
 header:
-  teaser: ../../../../../images/krankenlager_kueche_teaser.png
+  teaser: ../../../../../images/trio_taschengeld_teaser.png
 tags: ["Familienleben", "Partnerschaft", "Altbausanierung"]
 ---
 
@@ -13,8 +13,8 @@ Ich habe lange überlegt OB und wenn ja WIE ich das Thema hier behandeln soll ab
 **
 
 <figure>
-  <img src="../../../../../images/krankenlager_kueche.png" alt="">
-  <figcaption>Tee, Kopfhörer, Hörspiel und glühende Wangen. Die Maus hat bei uns den Anfang gemacht in Sachen Kranksein.</figcaption>
+  <img src="../../../../../images/trio_taschengeld.png" alt="">
+  <figcaption>Immerhin passt zwischen unsere Kids kein Blatt. Hier schmeißen sie ihr Taschengeld zusammen, um sich Süßigkeiten im Dorfladen zu kaufen..</figcaption>
 </figure>      
 
 Unsere Beziehung war nicht immer super harmonisch. Kein Problem. Das gehört dazu. Wer mein Geschreibsel hier aber seit mehreren Jahren verfolgt, hat vielleicht eine Ahnung davon, was bei uns so alles im Argen liegt. Unsere Unzufriedenheit (miteinander) haben wir immer auf den Platzmangel geschoben. WENN wir mehr Rückzugsmöglichkeiten hätten, wäre es sicher VIEL harmonischer. Dann hätte Simon auch Lust auf Familie, Unternehmungen, mit an zu packen… Das höre ich seit Jahren. Und obwohl ich Zweifel daran hatte, dass mehr Platz die Lösung für alles wäre, war es mir den Versuch wert. 
