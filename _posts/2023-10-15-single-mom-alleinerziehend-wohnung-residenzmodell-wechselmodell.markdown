@@ -1,5 +1,5 @@
 ---
-title:  "{::nomarkdown}Single-Mom: Alleinerziehend mit 3 Kindern? 
+title:  "{::nomarkdown}Single-Mom: Alleinerziehend mit 3 Kindern
 
 {:/}"
 date:   2023-10-15 10:00:00 +0200
