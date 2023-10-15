@@ -7,11 +7,11 @@ excerpt: "Impressum"
 
 
 Katja Narkprasert  
-Gratlspitzstr. 2a  
-81825 München
+Oberamteistraße 9  
+88518 Bad Saulgau
 
-Telefon: 089 23140813  
-E-Mail: [info@katjaskinderkram.de](mailto:info@katjaskinderkram.de)
+Telefon: 017631165874  
+E-Mail: [katja.narkprasert@gmail.com](mailto:katja.narkprasert@gmail.com)
 
 Blog powered by [Jekyll](http://jekyllrb.com){:target="_blank"} and [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme){:target="_blank"}.
 
