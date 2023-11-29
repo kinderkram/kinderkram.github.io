@@ -5,7 +5,7 @@ title: "Über mich"
 excerpt: "Über mich"
 ---
 <figure>
-  <img src="../../../../../images/katja_profil.jpg" alt="">
+  <img src="../../../../../images/katja_narkprasert.jpg" alt="">
   <figcaption></figcaption>
 </figure>
 Ich bin dreifache Mama. Drei Kinder in viereinhalb Jahren. Mit genau denen wohne ich in einer gemütlichen Bude Mitten in Bad Saulgau. Das ist ein hübsches Städtchen in Oberschwaben, in das ich praktisch kam wie die Jungfrau zum Kind. Lange Geschichte. Wobei. Die letzten 54 Beiträge sollten ausreichen, um die Zusammenhänge zu verstehen. Ich bin ne Working Mom, ne Single-Mom und irgendwo unter dem ganzen Dasein als Muddi auch noch eine ganze Menge mehr.
