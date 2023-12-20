@@ -17,16 +17,16 @@ tags: ["Weihnachten", "Finanzen", "Trennung", "Alleinerziehend"]
 
 Nach meinem letzten Beitrag ist viel passiert. Ich habe mir doch noch Winterstiefel gekauft und den Mädels direkt auch noch. Dank einer kleinen Bonuszahlung und guter Kalkulation in Sachen Weihnachtsgeschenke konnte ich diesen Punkt von meiner To-Do-Liste streichen. Die ist aber trotzdem noch ellenlang. Starten wir aber lieber mit den bereits erledigten Geschichten. 
 
-<b>Die Dachlawine, das Auto und eine naive Frau</b>
+<b>Die Dachlawine, das Auto und eine naive Frau</b><br>
 Die Sache mit der Dachlawine. Am Nikolaustag hatte ich einen super Lauf in der Arbeit. Gedanken und Texte flossen nur so dahin. Das Beste, was einem kreativ arbeitenden Menschen so passieren kann. Alex war zum ersten Mal diese Woche in der Kita und alles hätte so wunderbar sein können, wenn mich nicht plötzlich ein polterndes Geräusch direkt über mir, unter dem Dach, stutzig gemacht hätte. „Oha!“, dachte ich noch. „Das klang ja hart nach Dachlawine!“ Zweiter Gedanke: „Ungünstig. Da unten steht mein Auto.“ Dritter Gedanke: „Ja, gut, das ist stabil. Da wird schon nix passiert sein.“
 
-<b>Unplanbare Ereignisse: Spontanität, Organisation und Freunde sind alles</b>
+<b>Unplanbare Ereignisse: Spontanität, Organisation und Freunde sind alles</b><br>
 Long Story short: Doch. Da war was passiert. Ich stell hier mal das Bild dazu ein, das mir wirklich für zwei Minütchen die Tränen in die Augen trieb. „Fuck! Doch nicht auch noch das jetzt!?“ Innerhalb kürzester Zeit telefonierte ich Vermieter, Versicherung und Freunde ab und in einer Zeitspanne von nicht einmal einer Stunde waren im Grunde genommen alle Fakten geklärt. Versicherung zahlt nicht weil ich keine Kasko habe und meine Haftpflicht nicht greift. Die Gebäudeversicherung vom Vermieter ist eine Option, alle Kinder werden im Nachbarort von Freunden eingesammelt und zu mir chauffiert. Damit mein Auto innen nicht nass wird (der Eisblock ist straight durch die Scheibe, da lagen Scherben auf den Vordersitzen), konnte ich ein armes Auto in der Glaserei unterstellen, einen Leihwagen hab ich so bekommen, der reguläre Preis für den Scheibenwechsel läge bei um die 1000 Euro. Musste gemacht werden, weil ich auf meine Karre wirklich angewiesen bin. Joar. Jetzt fahre ich mit nagelneuer Frontscheibe und ein bisschen ärmer durch die Gegend.
 
-<b>Eine Tür flog auf, wie zum freundlichen Gruße</b>
+<b>Eine Tür flog auf, wie zum freundlichen Gruße</b><br>
 Doof ist, dass das nicht die einzige Baustelle an meinem Passat ist. Er ist empfindlich, was Frost angeht. Rutscht das Quecksilber nur ein paar Grad unter Null, schließt die Fahrertür nicht mehr und schwingt während der Fahrt fröhlich auf. Ich bin währenddessen eher panisch als fröhlich. Das ist saugefährlich. Also fahre ich, den linken Arm angewinkelt wie ein Chicken Wing und die Tür fest an mich heranziehend, die Kids morgens in Schule und Kindergarten. Hab ja noch einen Arm. Zum Schalten, Blinken und Lenken. Und wenn das Auto erstmal warm geworden ist, geht’s meistens wieder mit der Tür. Ich sollte dringend in die Werkstatt damit. Andererseits sind jetzt aber auch eh bald Weihnachtsferien und dann bleiben wir einfach alle zu Hause. 
 
-<b>Oh heilige Macarena</b>
+<b>Oh heilige Macarena</b><br>
 Deshalb habe ich mich für Weihnachtsbaum statt Wartung entschieden. Die Kinder haben ein über zwei Meter hohes Exemplar ausgesucht und was soll ich sagen? Er ist wunder wunderschön. Er wurde von den Kids und ihren Freunden liebevoll dekoriert und im Anschluss haben sie darunter Macarena getanzt. Wird vielleicht ne neue Weihnachtstradition. Mal gucken. Apropos Tradition und Weihnachten: Wenn es mich rappelt, berichte ich hier auch gerne noch von der Umsetzung unseres ersten Weihnachtsfestes mit getrenntlebenden Eltern. Da steht zumindest die Planung. Und die ist… sagen wir ambitioniert. Aber dazu beim nächsten Mal mehr.
 
 
