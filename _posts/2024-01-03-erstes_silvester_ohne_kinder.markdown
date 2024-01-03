@@ -17,7 +17,7 @@ tags: ["Gesundheit", "Trennung", "Alleinerziehend"]
 
 Erster Jahreswechsel ohne Kinder. Oh, hat sich das ungewohnt angefühlt. Immerhin hatte ich das seit acht Jahren nicht mehr. Und ich war auch sehr glücklich, sie am 1. Januar wieder in die Arme schließen zu können, wobei ich sagen muss, war auch ganz nett. Mit Freunden und Raclette.
 
-<b><Planlos durch die Nacht</b><br>
+<b>Planlos durch die Nacht</b><br>
 Und, was habt ihr Silvester so gemacht? So rum gestellt ist die Frage um einiges leichter zu beantworten, als im Vorfeld. Meine Silvester-Planung stand seit jeher immer erst wenige Tage vorm Ereignis fest. Dieses Jahr war es noch knapper. Am Tag vorher beschloss ich mit Freunden, Raclette bei mir zu machen und im Anschluss eventuell und bei entsprechender Laune noch weiterzuziehen. Das war erstmal ein bisschen kompliziert und weil alle Gäste zwar ebenfalls Eltern waren aber an diesem Abend auch die Kids beim jeweils anderen Elternteil hatten, auch in einem Anflug wehmütig, insgesamt aber muss ich sagen, dass das eine wirklich gute Idee war. 
 
 <b>Pfännchen unterm Tännchen: Raclette mit Weihnachtsbaum</b><br>
