@@ -17,10 +17,10 @@ tags: ["Gesundheit", "Trennung", "Alleinerziehend", "Kind & Karriere"]
 
 Alarm, es kommt ein Notruf an. Feuerwehrmann Sam ist unser Mann! Wiiiiuuuu, wiiihhhuuu, wiiiuuu. Fuck! Wie werde ich diesen Ohrwurm los? Und wisst ihr, wie mies der sich ins Hirn fressen kann, während man gerade versucht, den Kollegen die umfassende Jahresplanung im Marketing-Jour-Fix zu unterbreiten? Hatte ich heute. Schon wieder! Auch letzte Woche hatte ich Alex schon tageweise zu Hause weil er Abends in der Kurve hing wie ein Schluck Wasser.
 
-<b<Choreografie der Kinderkrankheiten</b><br>
+<b>Choreografie der Kinderkrankheiten</b><br>
 Die Kindkrank-Choreografie ist bei uns allerdings immer die Gleiche. Was am Vorabend noch danach aussah, als würde sich da ein richtig übler Infekt breit machen, löst sich spätestens dann in Luft auf, wenn ich dem Kindergarten Bescheid gegeben habe, dass Alex daheim bleibt und das Essen abbestellt werden kann. Kaum habe ich das Gespräch beendet, steigt die Laune beim kleinen Patienten. „Hurra! Darf ich fernsehen?“ 
 
-<br>Ab wie vielen Stunden Fernsehen werden Kinder dumm?</b><br>
+<b>Ab wie vielen Stunden Fernsehen werden Kinder dumm?</b><br>
 Die Antwort ist auch schon gut einstudiert: „Nein! Du kannst nicht davon ausgehen, den ganzen Tag in die Glotze gucken zu dürfen, nur weil die Mama arbeiten muss.“ Meistens schaffen wir es dann auch ganz gut über die ersten Stunden. Wir holen erstmal frische Brötchen vom Bäcker nachdem wir die Mädels in der Schule abgeliefert haben und Alex ist anschließend eine ganze Weile mit Essen beschäftigt. Er ist der klassische Buffet-Typ. Wenn ich ihm Nahrung in hübsch aufgeschnittenen Portionen serviere, knabbert er so lange mal hier und mal da bis alles weg ist. Das nutze ich zu meinem Vorteil und stelle ihm zum Beispiel Blaubeeren vor die Nase. Die isst er einzeln. Das dauert.
 
 <b>Sie war stets bemüht</b><br>
