@@ -20,7 +20,7 @@ Letzte Woche waren Fasnets-Ferien. Für diejenigen, die noch nix von der schwäb
 <b>Holla, die Waldfee, Elfe, Polizist, Hexe oder Piratenbraut</b><br>
 Von Donnerstag vorletzte Woche bis einschließlich Dienstag letzte Woche haben wir quasi nonstop Party gemacht. Umzug, Kinderball mit Auftritt der Kids und als Grande Finale die Hexenverbrennung auf dem Marktplatz. Das war schön, aber auch echt anstrengend. Die Kinder immer wieder zurecht machen, mich selbst auch, vom Büro aus ins Elfenkostüm gehüpft und wieder zurück. Urlaub hatte ich in den anderthalb Wochen Ferien nur 3 Tage. Das war nur möglich, weil meine Mutter da war, um zu unterstützen. Nun ist meine Mutter nicht nur Unterstützung. Es ist auch echt anstrengend, wenn sie da ist. Angefangen bei unterschiedlichen Auffassungen zum Thema Erziehung bis hin zur Tatsache, dass ich anderthalb Wochen auf der Couch schlafen musste, weil sie selbstverständlich mein Schlafzimmer bekommt, wenn sie da ist.  
 
-<br>Domino-Kotzen: Wer hat angefangen?</b><br>
+<b>Domino-Kotzen: Wer hat angefangen?</b><br>
 Magen-Darm ist ja mein persönlicher Endgegner. Widerlich, schmerzhaft, stinkt. Meine Mom hat den Anfang gemacht am Rosenmontag. In der Nacht von Dienstag auf Mittwoch hat mir Johanna dann so richtig das Bett voll gekotzt und wenige Stunden später folgte Pauline mit fürchterlichem Durchfall. Danach kam Fieber bis 41 Grad bei den Mädels und insgesamt bin ich aus dem Waschen nicht mehr herausgekommen. Es ist so krass anstrengend, nachts mehrmals raus zu müssen, um Böden zu wischen, Betten abzuziehen und zitternde Kinder abzuduschen. Alex und ich waren wie durch Zauberhand verschont worden. So schien es…
 
 <b>Last Woman standing: Und wer hilft eigentlich der Muddi?</b><br>
