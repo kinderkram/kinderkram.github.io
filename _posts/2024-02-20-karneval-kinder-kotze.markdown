@@ -12,7 +12,7 @@ tags: ["Gesundheit", "Trennung", "Alleinerziehend", "Kind & Karriere"]
 
 <figure>
   <img src="../../../../../images/fasnetzeit.png" alt="">
-  <figcaption>Ich. Beim Richten des Raclette-Tisches. Und so :).</figcaption>
+  <figcaption>Von brennenden Hexen bis Ananas. Langweilig wird's aber auch echt nie bei uns.</figcaption>
 </figure>      
 
 Letzte Woche waren Fasnets-Ferien. Für diejenigen, die noch nix von der schwäbisch-alemannischen Fasnacht gehört haben: Die ist der Wahnsinn. Kölner Karneval kennt jeder aber bei uns hier im Oberland geht’s mindestens genauso ab. Und ich muss zugeben: Wir lieben es, die Kinder und ich. Im Vorfeld waren wir extra noch neue Kostüme besorgen, obwohl wir noch zwei Umzugskisten voll davon haben aber hier gibt’s einen Second-Hand-Schuppen mit schier endlos langen Gängen voller Verkleidungen. Da drin haben wir Stunden verbracht. Und sind erfolgreich wieder von dannen gezogen. 
