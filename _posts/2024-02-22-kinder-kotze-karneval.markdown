@@ -4,14 +4,14 @@ title:  "{::nomarkdown}Kinder, Karneval, Kotze: Ein Hoch auf die Faschingsferien
 {:/}"
 date:   2024-02-22 10:00:00 +0200
 header:
-  teaser: ../../../../../images/fasnet_teaser.png
+  teaser: ../../../../../images/fasnetzeit_teaser.png
 tags: ["Gesundheit", "Trennung", "Alleinerziehend", "Kind & Karriere"]
 ---
 
 **Ich melde mich spät. Das lag daran, dass wir hier reihum die Kloschüssel umarmt haben. Zum Glück war Muddi wieder die Letzte, die umgefallen ist. Bis dahin galt es, trotz Ferien ziemlich viel zu arbeiten, in buchstäblich jede Menge Rollen zu schlüpfen und verdammt viel Wäsche zu waschen.**
 
 <figure>
-  <img src="../../../../../images/fasnet.png" alt="">
+  <img src="../../../../../images/fasnetzeit.png" alt="">
   <figcaption>Von Hexenverbrennung bis Ananas. Unser Leben ist bunt und nie langweilig. Dabei wäre mir ein bisschen mehr Gleichförmigkeit ganz recht..</figcaption>
 </figure>      
 
