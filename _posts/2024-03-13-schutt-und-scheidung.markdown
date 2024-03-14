@@ -20,7 +20,7 @@ Es geht vorwärts in Sachen Einigung mit meinem Noch-Mann. Zumindest gefühlt. I
 <b>Klappe halten Mama!</b><br>
 Und hatte diese Woche eine Kehlkopfentzündung, die wirklich suboptimal ist, wenn man einen Job hat, in dem man relativ viel quatschen muss. Dazu leichtes Fieber, Husten direkt aus der Hölle überhaupt scheine ich dieses Frühjahr mitzunehmen, was nur geht. Genau wie die Kinder. Die wurden in den letzten drei Monat gefühlt auch gar nicht mehr richtig gesund. Was ist da nur los? Normalerweise zeigen unsere Abwehrkräfte irgendwelchen Drecks-Erregern nur den Stinkefinger. Aber die letzten Wochen waren auch wirklich eine Herausforderung. 
 
-<br>Spaßiger Stress oder stressiger Spaß als Working-Mom?</b><br>
+<b>Spaßiger Stress oder stressiger Spaß als Working-Mom?</b><br>
 Im Job habe ich gerade richtig viel Spaß. Und auch richtig viel Stress. Kompensation für ausgefallene Kolleg:innen, richtig geile aber arbeitsintensive Projekte und dann schwebt da ja auch immer noch der Gedanke im Hinterkopf, ein Studium aufzunehmen. Aber das kann ich momentan knicken. Ich schlafe so schon nur um die 6 Stunden wenn es gut läuft. Die einzige Möglichkeit, noch Zeit für ein Studium zu erübrigen, wäre es, am Schlaf zu knapsen. Und das pack ich nicht nach all den Jahren des Schlafmangels. Vollzeitarbeit mit zwei schlecht schlafenden Kleinkindern und drei Babys in viereinhalb Jahren haben einfach Spuren hinterlassen. Manchmal frage ich mich, wie es mir heute ginge, wenn es damals einen Partner an meiner Seite gegeben hätte, der auch Nächte übernommen hätte. Vielleicht nicht mal 50 Prozent aber immer dann, wenn ich wirklich am Ende war? Aber diese Gedankengänge führen zu nix. Hätte, hätte Fahrradkette. 
 
 <b>Partnerschaft auf Augenhöhe</b><br>
