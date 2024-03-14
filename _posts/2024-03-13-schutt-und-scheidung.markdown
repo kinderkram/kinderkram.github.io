@@ -8,7 +8,7 @@ header:
 tags: ["Gesundheit", "Trennung", "Alleinerziehend", "Kind & Karriere", "Finanzen"]
 ---
 
-**Das chinesische Jahr des Drachen ist angebrochen. Das soll mir zu wirtschaftlichem Aufschwung verhelfen sowie Resilienz und unermüdliche Energie verleihen. Joar. Ich will das jetzt einfach mal glauben, weil ich es all das in Sachen Rosenkrieg, Kindererziehung und meinen ambitionierten Vorhaben in Sachen Job echt gut brauche kann.**
+**Das chinesische Jahr des Drachen ist angebrochen. Das soll mir zu wirtschaftlichem Aufschwung verhelfen sowie Resilienz und unermüdliche Energie verleihen. Joar. Ich will das jetzt einfach mal glauben, weil ich das alles in Sachen Rosenkrieg, Kindererziehung und meinen ambitionierten Vorhaben in Sachen Job echt gut brauche kann.**
 
 <figure>
   <img src="../../../../../images/bergglueck.png" alt="">
