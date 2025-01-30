@@ -8,11 +8,11 @@ header:
 tags: ["Trennung", "Patchwork", "Partnerschaft", "Schwangerschaft"]
 ---
 
-**Und da meldet sie sich nach Monaten zurück aus der Versenkung. Aber dafür mit vielen Neuigkeiten. Vom neuen Liebesglück mit mindestens sieben neuen Herausforderungen, Arbeits-Overload, Scheidungsvorfreude und dem ersten Urlaub ohne Kinder.**
+**Long Time no see und so und ich komme mit großen, kleinen Neuigkeiten zurück. Wir sind umgezogen, zusammengezogen, ich bin im siebten Monat schwanger und überhaupt ist seit dem letzten Eintrag eine Menge passiert. Hier ein kleiner Überblick.**
 
 <figure>
   <img src="../../../../../images/eiskugel.png" alt="">
-  <figcaption>Long Time no see und so und ich komme mit großen, kleinen Neuigkeiten zurück. Wir sind umgezogen, zusammengezogen, ich bin im siebten Monat schwanger und überhaupt ist seit dem letzten Eintrag eine Menge passiert. Hier ein kleiner Überblick.</figcaption>
+  <figcaption>Baby it's cold! Aber ich versuche trotzdem in Bewegung zu bleiben. Weils mir sonst noch mieser geht so kreislauftechnisch. Obs an der Schwangerschaft mit 40 liegt?</figcaption>
 </figure>      
 
 Niemand der Personen, die uns ein bisschen kennt, war überrascht, als wir die Schwangerschaft bekannt gegeben haben. Die Reaktionen jedoch… die waren durchaus vielfältig, um es mal freundlich zu formulieren. Hier eine kleine aber unvollständige Sammlung der beschissensten Reaktion auf eine Schwangerschaft, die entweder so dämlich kommentiert wird, weil ich schon 40 und damit offiziell alt bin wie es scheint ODER weil Menschen denken, dass wir nicht mehr alle Latten im Zaun haben, weil wir uns „das nochmal antun“. 
