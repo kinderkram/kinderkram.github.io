@@ -22,8 +22,7 @@ Die Zwischenüberschrift verrät es schon. Während es bei Kind noch überschwä
 <br>
 Nun also Nummer 4. Der Mann in meinem Leben hat schnell Nägel mit Köpfen gemacht. Er ließ Heimat, Freunde, Familie und Job zurück, um mehr Zeit mit mir zu haben. Seit November wohnen wir zusammen unter einem Dach. Wir hatten unheimliches Glück und konnten ein Haus ergattern, dass groß genug für uns alle ist. Zur Miete. Jedes Kind hat sein eigenes Kinderzimmer und weil er Schreiner ist und dazu ein besonders guter, lebe ich so schön wie noch niemals zuvor in meinem Leben. Deshalb habe ich Angst, dass es auch genauso schnell wieder vorbei sein könnte. Weils manchmal wirklich zu schön ist, um wahr zu sein. 
 
-
-<br>Finanzprobleme, Elternzeit und Karriereplanung</b><br>
+<b>Finanzprobleme, Elternzeit und Karriereplanung</b><br>
 Damit hier kein falscher Eindruck entsteht: All das ist harte Arbeit. Wir arbeiten viel, um uns das ermöglichen zu können. Und wir machen überall Abstriche aber dazu vielleicht ein anderes Mal mehr. Zwei sorgeberechtigte Expartner, die Bedürfnisse der Kinder und irgendwann auch wir: All das für alle zufriedenstellend unter einen Hut zu bekommen, ist nicht einfach, gelingt uns meistens aber gut. Und eben weil es so gut läuft mit uns, waren wir mutig genug, um zu sagen: „Eins geht noch!“ Kann ja keiner ahnen, dass es so schnell klappt. Wir sind ja nun auch nicht mehr die Jüngsten. Im Kopf zwar schon aber die Fertititätsstatistik spricht eine eigene Sprache. Wie dem auch sei: Jetzt bin ich in der 25ten Woche und wir freuen uns riesig auf das kleine Nachzuglerchen. Wie lange wir uns Elternzeit leisten können und wie wir die Zeit, die uns geschenkt wurde, auch sorgenfrei genießen können, tüfteln wir aktuell noch aus.
 
 
