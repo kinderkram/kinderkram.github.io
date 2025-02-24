@@ -33,7 +33,7 @@ Als wir umzogen, war ich gerade einmal in der elften Woche und bis dato wusste n
 <b>Alter oder Zufall? Kreislaufprobleme in der Schwangerschaft mit 40 Jahren</b><br>
 In jeder meiner Schwangerschaften gab es irgendein markantes gesundheitliches Problem. Symphyse, Ischias, Karpaltunnelsyndrom hatte ich schon. Neu dieses Mal: Kreislauf! Mein Puls geht ohne ersichtlichen Grund im Sitzen am Schreibtisch von 50 auf 166 während der Blutdruck in den Keller rauscht. Das fühlt sich ein bisschen an, wie ich mir Sterben vorstelle. Der Kardiologe konnte keine Ursache finden. Nach der Geburt sei das sicher wieder weg. Na dann. Bin ich ja beruhigt.
 <br>
-Und ich mache für dieses Mal auch Feierabend, weil ich merke, dass ich viel zu viele Informationen zusammenwürfle. Ich werde künftig chronologisch besser aufarbeiten. Versprochen 😉.
+Und ich mache für dieses Mal auch Feierabend, weil ich merke, dass ich viel zu viele Informationen zusammenwürfle. Ich werde künftig chronologisch besser aufarbeiten. Versprochen😉.
 
 
 
