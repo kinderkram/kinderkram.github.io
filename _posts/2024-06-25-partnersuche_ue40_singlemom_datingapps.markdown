@@ -5,7 +5,7 @@ title:  "{::nomarkdown}Tinder-Kinder: Vom Liebesglück Alleinerziehender in Dati
 date:   2024-06-25 10:00:00 +0200
 header:
   teaser: ../../../../../images/handstand_teaser.png
-tags: ["Trennung", "Alleinerziehend", "Partnerschadt"]
+tags: ["Trennung", "Alleinerziehend", "Partnerschaft"]
 ---
 
 **Und da meldet sie sich nach Monaten zurück aus der Versenkung. Aber dafür mit vielen Neuigkeiten. Vom neuen Liebesglück mit mindestens sieben neuen Herausforderungen, Arbeits-Overload, Scheidungsvorfreude und dem ersten Urlaub ohne Kinder.**
