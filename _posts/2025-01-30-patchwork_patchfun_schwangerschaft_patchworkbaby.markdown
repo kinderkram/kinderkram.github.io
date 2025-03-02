@@ -4,7 +4,7 @@ title:  "{::nomarkdown}Patchwork ist nicht immer Patchfun: 40, schwanger vom Neu
 {:/}"
 date:   2025-01-30 10:00:00 +0200
 header:
-  teaser: ../../../../../images/handstand_teaser.png
+  teaser: ../../../../../images/eiskugel_teaser.png
 tags: ["Trennung", "Schwangerschaft", "Partnerschaft", "Patchwork"]
 ---
 
